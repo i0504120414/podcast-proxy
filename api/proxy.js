@@ -41,11 +41,10 @@ function fetch(url, options = {}) {
         ...options.headers
       }
     }, (res) => {
-      // Handle redirects
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         return fetch(res.headers.location, options).then(resolve).catch(reject);
       }
-      
+
       let data = [];
       res.on('data', chunk => data.push(chunk));
       res.on('end', () => {
@@ -78,16 +77,90 @@ async function searchPodcasts(query, limit = 25) {
         description: item.description || "",
         genre: item.primaryGenreName || "",
         trackCount: item.trackCount || 0,
+        itunesId: item.collectionId || item.trackId || 0,
       });
     }
   }
   return { success: true, query, resultCount: results.length, results };
 }
 
+async function lookupPodcast(itunesId) {
+  const response = await fetch(`https://itunes.apple.com/lookup?id=${itunesId}`);
+  const data = await response.json();
+  if (data.results && data.results.length > 0) {
+    const item = data.results[0];
+    return {
+      success: true,
+      result: {
+        title: item.collectionName || item.trackName || "",
+        author: item.artistName || "",
+        feedUrl: item.feedUrl || "",
+        imageUrl: item.artworkUrl600 || item.artworkUrl100 || "",
+        itunesId: item.collectionId || item.trackId || 0,
+      }
+    };
+  }
+  return { success: false, error: "Not found" };
+}
+
 async function getTopPodcasts(country = "US", limit = 25) {
   const url = `https://itunes.apple.com/${country}/rss/toppodcasts/limit=${limit}/explicit=true/json`;
   const response = await fetch(url);
   return await response.json();
+}
+
+function extractItunesId(url) {
+  const match = url.match(/id(\d+)/);
+  return match ? match[1] : null;
+}
+
+async function processTopListWithLookups(country, limit, outputDir) {
+  console.log(`Processing top list for ${country}...`);
+  
+  // Get top podcasts
+  const topData = await getTopPodcasts(country, limit);
+  
+  // Save top list
+  const topPath = path.join(outputDir, `top_${country}.json`);
+  fs.writeFileSync(topPath, JSON.stringify(topData, null, 2));
+  console.log(`Top list saved to: ${topPath}`);
+  
+  // Extract all iTunes IDs from the top list
+  const entries = topData.feed?.entry || [];
+  const lookups = {};
+  
+  for (const entry of entries) {
+    const idUrl = entry.id?.label || "";
+    const itunesId = extractItunesId(idUrl);
+    if (itunesId) {
+      console.log(`Looking up iTunes ID: ${itunesId}`);
+      try {
+        const lookupResult = await lookupPodcast(itunesId);
+        if (lookupResult.success && lookupResult.result.feedUrl) {
+          lookups[itunesId] = lookupResult.result;
+          console.log(`  -> Found: ${lookupResult.result.title}`);
+          
+          // Save individual lookup file
+          const lookupPath = path.join(outputDir, `lookup_${itunesId}.json`);
+          fs.writeFileSync(lookupPath, JSON.stringify(lookupResult, null, 2));
+        } else {
+          console.log(`  -> No feedUrl found`);
+        }
+      } catch (e) {
+        console.log(`  -> Error: ${e.message}`);
+      }
+      
+      // Small delay to avoid rate limiting
+      await new Promise(r => setTimeout(r, 200));
+    }
+  }
+  
+  // Save combined lookups file
+  const lookupsPath = path.join(outputDir, `lookups_${country}.json`);
+  fs.writeFileSync(lookupsPath, JSON.stringify({ success: true, lookups }, null, 2));
+  console.log(`All lookups saved to: ${lookupsPath}`);
+  
+  return { topData, lookups };
 }
 
 async function proxyFeed(feedUrl) {
@@ -98,22 +171,10 @@ async function proxyFeed(feedUrl) {
   return Buffer.from(content, 'utf8').toString('base64');
 }
 
-async function proxyMedia(mediaUrl) {
-  const response = await fetch(mediaUrl, {
-    headers: { 'Accept': '*/*' }
-  });
-  const buffer = await response.buffer();
-  return {
-    data: buffer.toString('base64'),
-    contentType: response.headers['content-type'] || 'audio/mpeg',
-    contentLength: buffer.length
-  };
-}
-
 async function main() {
   const action = process.env.ACTION || 'top';
-  const outputDir = process.env.OUTPUT_DIR || './output';
-  
+  const outputDir = process.env.OUTPUT_DIR || './docs/api';
+
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
@@ -128,13 +189,26 @@ async function main() {
         const limit = parseInt(process.env.LIMIT || '25');
         result = await searchPodcasts(query, limit);
         filename = `search_${Buffer.from(query).toString('base64').replace(/[^a-zA-Z0-9]/g, '')}.json`;
+        const searchPath = path.join(outputDir, filename);
+        fs.writeFileSync(searchPath, JSON.stringify(result, null, 2));
+        console.log(`Search results saved to: ${searchPath}`);
         break;
 
       case 'top':
-        const country = process.env.COUNTRY || 'US';
+        const country = process.env.COUNTRY || 'IL';
         const topLimit = parseInt(process.env.LIMIT || '25');
-        result = await getTopPodcasts(country, topLimit);
-        filename = `top_${country}.json`;
+        // Process top list AND do lookups for all podcasts
+        await processTopListWithLookups(country, topLimit, outputDir);
+        break;
+
+      case 'lookup':
+        const itunesId = process.env.ITUNES_ID || '';
+        if (!itunesId) throw new Error('Missing ITUNES_ID');
+        result = await lookupPodcast(itunesId);
+        filename = `lookup_${itunesId}.json`;
+        const lookupPath = path.join(outputDir, filename);
+        fs.writeFileSync(lookupPath, JSON.stringify(result, null, 2));
+        console.log(`Lookup saved to: ${lookupPath}`);
         break;
 
       case 'feed':
@@ -143,28 +217,24 @@ async function main() {
         const feedContent = await proxyFeed(feedUrl);
         result = { encoding: 'base64', content: feedContent };
         filename = `feed_${Date.now()}.json`;
+        const feedPath = path.join(outputDir, filename);
+        fs.writeFileSync(feedPath, JSON.stringify(result, null, 2));
+        console.log(`Feed saved to: ${feedPath}`);
         break;
 
-      case 'stream':
-        const mediaUrl = process.env.URL ? decodeEncodedUrl(process.env.URL) : '';
-        if (!mediaUrl) throw new Error('Missing URL');
-        const mediaResult = await proxyMedia(mediaUrl);
-        result = mediaResult;
-        filename = `media_${Date.now()}.json`;
+      case 'all':
+        // Process multiple countries
+        const countries = ['IL', 'US'];
+        for (const c of countries) {
+          await processTopListWithLookups(c, 25, outputDir);
+        }
         break;
 
       default:
         throw new Error(`Unknown action: ${action}`);
     }
 
-    const outputPath = path.join(outputDir, filename);
-    fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
-    console.log(`Output written to: ${outputPath}`);
-    
-    // Also write to a predictable location for the latest result
-    const latestPath = path.join(outputDir, `latest_${action}.json`);
-    fs.writeFileSync(latestPath, JSON.stringify(result, null, 2));
-    console.log(`Latest written to: ${latestPath}`);
+    console.log('Done!');
 
   } catch (error) {
     console.error('Error:', error.message);
