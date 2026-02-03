@@ -15,13 +15,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
-    },
     "1519225032": {
       "title": "בזמן שעבדתם",
       "author": "mako מאקו",
@@ -133,6 +126,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD2511095846",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/d2/7e/f0d27ea3-e55f-9b19-4618-238fc8706e0f/mza_7321249760078922115.jpg/600x600bb.jpg",
       "itunesId": 1800224338
+    },
+    "1819301389": {
+      "title": "הביולוגיה של הרגשות",
+      "author": "All•In",
+      "feedUrl": "https://media.rss.com/the-emo-bio/feed.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/c5/75/3bc57560-7bc9-f1d2-874a-b6b0ca7297d6/mza_5633689254923128451.png/600x600bb.jpg",
+      "itunesId": 1819301389
     },
     "1823006955": {
       "title": "פודקאסט שולחן 4",
