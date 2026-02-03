@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AntennaPod Proxy API</title>
+  <style>
+    body { font-family: system-ui; max-width: 800px; margin: 50px auto; padding: 20px; }
+    code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; }
+    pre { background: #f0f0f0; padding: 15px; border-radius: 8px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>🎙️ AntennaPod Proxy API</h1>
+  <p>This is a podcast proxy service hosted on GitHub Pages.</p>
+  
+  <h2>Available Endpoints</h2>
+  
+  <h3>Top Podcasts (Cached)</h3>
+  <ul>
+    <li><a href="api/top_US.json">US Top Podcasts</a></li>
+    <li><a href="api/top_IL.json">Israel Top Podcasts</a></li>
+    <li><a href="api/top_GB.json">UK Top Podcasts</a></li>
+  </ul>
+  
+  <h3>How to Use</h3>
+  <pre>
+Base URL: https://YOUR_USERNAME.github.io/podcast-proxy/
+
+Endpoints:
+- /api/top_US.json - Top podcasts for US
+- /api/top_IL.json - Top podcasts for Israel
+- /api/latest_search.json - Latest search results
+- /api/latest_feed.json - Latest feed fetch
+  </pre>
+  
+  <h3>Trigger On-Demand Requests</h3>
+  <p>Use GitHub Actions workflow_dispatch to trigger:</p>
+  <pre>
+curl -X POST \
+  -H "Authorization: token YOUR_GITHUB_TOKEN" \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/YOUR_USERNAME/podcast-proxy/dispatches \
+  -d '{"event_type":"proxy-request","client_payload":{"action":"search","query":"tech"}}'
+  </pre>
+  
+  <p>Updated hourly via GitHub Actions.</p>
+</body>
+</html>

@@ -1,0 +1,4 @@
+{
+  "success": true,
+  "message": "API is working. Use /api/top_XX.json for top podcasts."
+}

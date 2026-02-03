@@ -1,0 +1,95 @@
+name: Podcast Proxy
+
+on:
+  # Run every hour to update cache
+  schedule:
+    - cron: '0 * * * *'
+  
+  # Allow manual trigger with parameters
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action: search, top, feed, stream'
+        required: true
+        default: 'top'
+      query:
+        description: 'Search query (for search action)'
+        required: false
+      url:
+        description: 'Encoded URL (for feed/stream actions)'
+        required: false
+      country:
+        description: 'Country code (for top action)'
+        required: false
+        default: 'US'
+  
+  # Trigger via repository dispatch (for API calls)
+  repository_dispatch:
+    types: [proxy-request]
+
+jobs:
+  proxy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create output directory
+        run: mkdir -p docs/api
+
+      - name: Run proxy script
+        env:
+          ACTION: ${{ github.event.inputs.action || github.event.client_payload.action || 'top' }}
+          QUERY: ${{ github.event.inputs.query || github.event.client_payload.query || '' }}
+          URL: ${{ github.event.inputs.url || github.event.client_payload.url || '' }}
+          COUNTRY: ${{ github.event.inputs.country || github.event.client_payload.country || 'US' }}
+          LIMIT: ${{ github.event.inputs.limit || github.event.client_payload.limit || '25' }}
+          OUTPUT_DIR: './docs/api'
+        run: node api/proxy.js
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Update proxy cache - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+  # Job to update all top podcasts for popular countries
+  update-top-podcasts:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create output directory
+        run: mkdir -p docs/api
+
+      - name: Fetch top podcasts for multiple countries
+        run: |
+          for country in US IL GB CA AU DE FR; do
+            echo "Fetching top podcasts for $country..."
+            ACTION=top COUNTRY=$country OUTPUT_DIR=./docs/api node api/proxy.js || true
+            sleep 2
+          done
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Update top podcasts cache - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
