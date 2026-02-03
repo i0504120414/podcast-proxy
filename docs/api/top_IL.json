@@ -470,6 +470,83 @@
       },
       {
         "im:name": {
+          "label": "הפודיום"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2020 All rights reserved."
+        },
+        "title": {
+          "label": "הפודיום - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
+          "attributes": {
+            "im:id": "1076440606"
+          }
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-01-31T14:49:00-07:00",
+          "attributes": {
+            "label": "31 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "בזמן שעבדתם"
         },
         "im:image": [
@@ -624,83 +701,6 @@
       },
       {
         "im:name": {
-          "label": "הרעיון"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "בכל פרק של “הרעיון”, נצלול לעומק של רעיון אחד ששינה את פני ההיסטוריה – דרך דמויות מופת, ספרים גדולים, או רגעים מכוננים.\nאבל לא נשאיר את זה כתיאוריה.\n\nהמהלך פשוט:\n להבין את הרעיון\n לראות איך הוא פעל במציאות\n ולתרגם אותו לפעולה בחיים שלך"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© דניאל הלפנבאום"
-        },
-        "title": {
-          "label": "הרעיון - דניאל הלפנבאום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A8%D7%A2%D7%99%D7%95%D7%9F/id1829005814?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A8%D7%A2%D7%99%D7%95%D7%9F/id1829005814?uo=2",
-          "attributes": {
-            "im:id": "1829005814"
-          }
-        },
-        "im:artist": {
-          "label": "דניאל הלפנבאום"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1500",
-            "term": "Self-Improvement",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-education-self-improvement/id1500?uo=2",
-            "label": "Self-Improvement"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-02T04:17:00-07:00",
-          "attributes": {
-            "label": "02 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
         },
         "im:image": [
@@ -771,154 +771,6 @@
         },
         "im:releaseDate": {
           "label": "2026-02-02T00:00:00-07:00",
-          "attributes": {
-            "label": "02 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "ONE Podcasts - מכבי ת\"א"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "הפודקאסט הרשמי של מכבי תל אביב מבית  ONE Podcasts"
-        },
-        "im:artist": {
-          "label": "ONE PODCASTS"
-        },
-        "title": {
-          "label": "ONE Podcasts - מכבי ת\"א - ONE PODCASTS"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/one-podcasts-%D7%9E%D7%9B%D7%91%D7%99-%D7%AA-%D7%90/id1618776201?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/one-podcasts-%D7%9E%D7%9B%D7%91%D7%99-%D7%AA-%D7%90/id1618776201?uo=2",
-          "attributes": {
-            "im:id": "1618776201"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-02T13:17:00-07:00",
-          "attributes": {
-            "label": "02 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "המאמי הלאומית"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "המאמי הלאומית!\nמה שהתחיל כחלק מהפודיום - מקבל את הכבוד הראוי לו בפודקאסט נפרד - כיאה לליגה הכי מרגשת, מפתיעה, אותנטית ומוזרה בעולם! \nבכל שבוע, גביזון, ברקוביץ', לפלר ואורחים נוספים יהיו כאן כדי לספר לכם ולבדר אותכם - אודות הליגה הלאומית, זו שקשה איתה, אבל בלתי אפשרי בלעדיה"
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "title": {
-          "label": "המאמי הלאומית - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2",
-          "attributes": {
-            "im:id": "1784250421"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-02T20:00:00-07:00",
           "attributes": {
             "label": "02 February 2026"
           }
@@ -1003,6 +855,80 @@
       },
       {
         "im:name": {
+          "label": "ONE Podcasts - מכבי ת\"א"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "הפודקאסט הרשמי של מכבי תל אביב מבית  ONE Podcasts"
+        },
+        "im:artist": {
+          "label": "ONE PODCASTS"
+        },
+        "title": {
+          "label": "ONE Podcasts - מכבי ת\"א - ONE PODCASTS"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/one-podcasts-%D7%9E%D7%9B%D7%91%D7%99-%D7%AA-%D7%90/id1618776201?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/one-podcasts-%D7%9E%D7%9B%D7%91%D7%99-%D7%AA-%D7%90/id1618776201?uo=2",
+          "attributes": {
+            "im:id": "1618776201"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-02T13:17:00-07:00",
+          "attributes": {
+            "label": "02 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "מפלגת המחשבות"
         },
         "im:image": [
@@ -1080,30 +1006,30 @@
       },
       {
         "im:name": {
-          "label": "The History Bureau"
+          "label": "הרעיון"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "NEW in The History Bureau - Putin and the Apartment Bombs\nIn September 1999, just weeks after a 46-year-old Vladimir Putin became Prime Minister, four bombs blew up four apartment buildings across Russia, killing hundreds of people while they slept. The attacks plunged the country into panic. Families fled their homes. Residents patrolled their blocks around the clock. An entire nation paralyzed by fear.\nBut who did it? It's a mystery that has fuelled some chilling theories. \nThe government blamed Chechen militants. Many reporters agreed. But then the whispers started. Was something even more sinister going on? \nOver 25 years later, journalists who covered the bombings still can't agree on who planted the explosives or why.\nPresenter Helena Merriman returns to the story with the reporters who were there on the ground. What did they get right first time around? And, in the chaos and confusion of unfolding events, what did they miss?\nThe History Bureau revisits the defining stories of our times with the reporters who first covered them."
+          "label": "בכל פרק של “הרעיון”, נצלול לעומק של רעיון אחד ששינה את פני ההיסטוריה – דרך דמויות מופת, ספרים גדולים, או רגעים מכוננים.\nאבל לא נשאיר את זה כתיאוריה.\n\nהמהלך פשוט:\n להבין את הרעיון\n לראות איך הוא פעל במציאות\n ולתרגם אותו לפעולה בחיים שלך"
         },
         "im:price": {
           "label": "Get",
@@ -1119,39 +1045,492 @@
           }
         },
         "rights": {
-          "label": "© (C) BBC 2026"
+          "label": "© דניאל הלפנבאום"
         },
         "title": {
-          "label": "The History Bureau - BBC"
+          "label": "הרעיון - דניאל הלפנבאום"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/the-history-bureau/id1867158737?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A8%D7%A2%D7%99%D7%95%D7%9F/id1829005814?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/the-history-bureau/id1867158737?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A8%D7%A2%D7%99%D7%95%D7%9F/id1829005814?uo=2",
           "attributes": {
-            "im:id": "1867158737"
+            "im:id": "1829005814"
           }
         },
         "im:artist": {
-          "label": "BBC"
+          "label": "דניאל הלפנבאום"
         },
         "category": {
           "attributes": {
-            "im:id": "1487",
-            "term": "History",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-history/id1487?uo=2",
-            "label": "History"
+            "im:id": "1500",
+            "term": "Self-Improvement",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-education-self-improvement/id1500?uo=2",
+            "label": "Self-Improvement"
           }
         },
         "im:releaseDate": {
-          "label": "2026-01-15T22:35:00-07:00",
+          "label": "2026-02-02T04:17:00-07:00",
           "attributes": {
-            "label": "15 January 2026"
+            "label": "02 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "נלי ולירון"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "﻿﻿נלי ולירון דיברו יום יום ביחד במשך חמש וחצי שנים ברדיו, אבל אז הן הבינו שכולם עברו לפודקסטים. וגם הן רוצות! קבלו פודקסט על תרבות, מערכות יחסים, השקפות עולם וכל הפרטים הקטנים שמרכיבים את הרגעים הגדולים של החיים האלה. הפודקאסט הזה יתן לכם ולכן את האפשרות לצחוק, לבכות, להתרגז ובעיקר לחכות לפרק הבא."
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "title": {
+          "label": "נלי ולירון - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A0%D7%9C%D7%99-%D7%95%D7%9C%D7%99%D7%A8%D7%95%D7%9F/id1863974186?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A0%D7%9C%D7%99-%D7%95%D7%9C%D7%99%D7%A8%D7%95%D7%9F/id1863974186?uo=2",
+          "attributes": {
+            "im:id": "1863974186"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-01-27T20:00:00-07:00",
+          "attributes": {
+            "label": "27 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "פאסיב אגרסיב"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "אלונה סער וטליה ברטפלד, מומחיות מטעם עצמן, בסשן עצות מצחיק, כנה והכי חשוף שיש  - לשאלות שבטוח לא תלמדו בבית הספר"
+        },
+        "im:artist": {
+          "label": "אלונה סער וטליה ברטפלד | Be.po"
+        },
+        "title": {
+          "label": "פאסיב אגרסיב - אלונה סער וטליה ברטפלד | Be.po"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2",
+          "attributes": {
+            "im:id": "1859419744"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1405",
+            "term": "Performing Arts",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts-performing-arts/id1405?uo=2",
+            "label": "Performing Arts"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-03T01:41:00-07:00",
+          "attributes": {
+            "label": "03 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "המאמי הלאומית"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "המאמי הלאומית!\nמה שהתחיל כחלק מהפודיום - מקבל את הכבוד הראוי לו בפודקאסט נפרד - כיאה לליגה הכי מרגשת, מפתיעה, אותנטית ומוזרה בעולם! \nבכל שבוע, גביזון, ברקוביץ', לפלר ואורחים נוספים יהיו כאן כדי לספר לכם ולבדר אותכם - אודות הליגה הלאומית, זו שקשה איתה, אבל בלתי אפשרי בלעדיה"
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "title": {
+          "label": "המאמי הלאומית - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2",
+          "attributes": {
+            "im:id": "1784250421"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-02T20:00:00-07:00",
+          "attributes": {
+            "label": "02 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "עושים היסטוריה הוא פודקאסט על מדע, טכנולוגיה והיסטוריה.\nרן לוי - מהנדס וסופר - לוקח את המאזינים למסעות מפתיעים אל מאחורי הקלעים של התגליות, הכישלונות והאנשים שהזיזו את העולם.\n\nלעוד פודקאסטים, הרצאות ואירועי לייב בקרו ב״רשת עושים היסטוריה״ והרשמו לניוזלטר. "
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright PI Media"
+        },
+        "title": {
+          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2",
+          "attributes": {
+            "im:id": "900613182"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1533",
+            "term": "Science",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-science/id1533?uo=2",
+            "label": "Science"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-02T11:05:00-07:00",
+          "attributes": {
+            "label": "02 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "התשובה הוא הפודקאסט המצליח בישראל שמחבר בין הורים וילדים .\n\nהמנחה, דורון פישלר, נותן תשובות שנונות ומפתיעות לשאלות הקטנות והגדולות, הטפשיות והמחוכמות, המוזרות והמרתקות של החיים, ובפרקים סיפוריים הוא משלב מדע, היסטוריה, תרבות והומור.\n\nלעדכונים לגבי אירועי לייב ועוד הירשמו לעדכונים באתר רשת עושים היסטוריה."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright PI Media"
+        },
+        "title": {
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2",
+          "attributes": {
+            "im:id": "1441947841"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-03T05:59:00-07:00",
+          "attributes": {
+            "label": "03 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "תרגעו"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "תרגעו עם בר הפשוטע ושיר הדס מאיר\nאהלן וסהלן ביצ׳ז 💖\nגם לנו יש פודקאסט\nאתם יודעים למה גם לנו יש פודקאסט? כי לכולם יש פודקאסט\nזה הטרנד\nזה צו השעה\nכולנו החלטנו כחברה שהדבר הנכון לעשות זה להוציא מיקרופון ולהקליט את עצמנו מדברים\nאז למה שנהיה שונים?\nאף אחד לא מת מקצת קונפורמיזם\nאתם גם ככה הרבה ברכב\nיש פקקים\nאז תשמעו גם אותנו\nמה כבר יש לכם לעשות\nבשורות טובות"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2024 All rights reserved."
+        },
+        "title": {
+          "label": "תרגעו - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%AA%D7%A8%D7%92%D7%A2%D7%95/id1639779705?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%AA%D7%A8%D7%92%D7%A2%D7%95/id1639779705?uo=2",
+          "attributes": {
+            "im:id": "1639779705"
+          }
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-03T06:00:00-07:00",
+          "attributes": {
+            "label": "03 February 2026"
           }
         }
       },
@@ -1311,385 +1690,6 @@
       },
       {
         "im:name": {
-          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "עושים היסטוריה הוא פודקאסט על מדע, טכנולוגיה והיסטוריה.\nרן לוי - מהנדס וסופר - לוקח את המאזינים למסעות מפתיעים אל מאחורי הקלעים של התגליות, הכישלונות והאנשים שהזיזו את העולם.\n\nלעוד פודקאסטים, הרצאות ואירועי לייב בקרו ב״רשת עושים היסטוריה״ והרשמו לניוזלטר. "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright PI Media"
-        },
-        "title": {
-          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi - רשת עושים היסטוריה"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2",
-          "attributes": {
-            "im:id": "900613182"
-          }
-        },
-        "im:artist": {
-          "label": "רשת עושים היסטוריה"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1533",
-            "term": "Science",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-science/id1533?uo=2",
-            "label": "Science"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-02T11:05:00-07:00",
-          "attributes": {
-            "label": "02 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "הפודיום"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2020 All rights reserved."
-        },
-        "title": {
-          "label": "הפודיום - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
-          "attributes": {
-            "im:id": "1076440606"
-          }
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-01-31T14:49:00-07:00",
-          "attributes": {
-            "label": "31 January 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "פאסיב אגרסיב"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "אלונה סער וטליה ברטפלד, מומחיות מטעם עצמן, בסשן עצות מצחיק, כנה והכי חשוף שיש  - לשאלות שבטוח לא תלמדו בבית הספר"
-        },
-        "im:artist": {
-          "label": "אלונה סער וטליה ברטפלד | Be.po"
-        },
-        "title": {
-          "label": "פאסיב אגרסיב - אלונה סער וטליה ברטפלד | Be.po"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2",
-          "attributes": {
-            "im:id": "1859419744"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1405",
-            "term": "Performing Arts",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts-performing-arts/id1405?uo=2",
-            "label": "Performing Arts"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-03T01:41:00-07:00",
-          "attributes": {
-            "label": "03 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "נלי ולירון"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "﻿﻿נלי ולירון דיברו יום יום ביחד במשך חמש וחצי שנים ברדיו, אבל אז הן הבינו שכולם עברו לפודקסטים. וגם הן רוצות! קבלו פודקסט על תרבות, מערכות יחסים, השקפות עולם וכל הפרטים הקטנים שמרכיבים את הרגעים הגדולים של החיים האלה. הפודקאסט הזה יתן לכם ולכן את האפשרות לצחוק, לבכות, להתרגז ובעיקר לחכות לפרק הבא."
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "title": {
-          "label": "נלי ולירון - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A0%D7%9C%D7%99-%D7%95%D7%9C%D7%99%D7%A8%D7%95%D7%9F/id1863974186?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A0%D7%9C%D7%99-%D7%95%D7%9C%D7%99%D7%A8%D7%95%D7%9F/id1863974186?uo=2",
-          "attributes": {
-            "im:id": "1863974186"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-01-27T20:00:00-07:00",
-          "attributes": {
-            "label": "27 January 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "תרגעו"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "תרגעו עם בר הפשוטע ושיר הדס מאיר\nאהלן וסהלן ביצ׳ז 💖\nגם לנו יש פודקאסט\nאתם יודעים למה גם לנו יש פודקאסט? כי לכולם יש פודקאסט\nזה הטרנד\nזה צו השעה\nכולנו החלטנו כחברה שהדבר הנכון לעשות זה להוציא מיקרופון ולהקליט את עצמנו מדברים\nאז למה שנהיה שונים?\nאף אחד לא מת מקצת קונפורמיזם\nאתם גם ככה הרבה ברכב\nיש פקקים\nאז תשמעו גם אותנו\nמה כבר יש לכם לעשות\nבשורות טובות"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2024 All rights reserved."
-        },
-        "title": {
-          "label": "תרגעו - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%AA%D7%A8%D7%92%D7%A2%D7%95/id1639779705?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%AA%D7%A8%D7%92%D7%A2%D7%95/id1639779705?uo=2",
-          "attributes": {
-            "im:id": "1639779705"
-          }
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-03T06:00:00-07:00",
-          "attributes": {
-            "label": "03 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "עושים פסיכולוגיה עם מעין בוימן משיטה"
         },
         "im:image": [
@@ -1762,6 +1762,83 @@
           "label": "2026-01-12T20:05:00-07:00",
           "attributes": {
             "label": "12 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The History Bureau"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "NEW in The History Bureau - Putin and the Apartment Bombs\nIn September 1999, just weeks after a 46-year-old Vladimir Putin became Prime Minister, four bombs blew up four apartment buildings across Russia, killing hundreds of people while they slept. The attacks plunged the country into panic. Families fled their homes. Residents patrolled their blocks around the clock. An entire nation paralyzed by fear.\nBut who did it? It's a mystery that has fuelled some chilling theories. \nThe government blamed Chechen militants. Many reporters agreed. But then the whispers started. Was something even more sinister going on? \nOver 25 years later, journalists who covered the bombings still can't agree on who planted the explosives or why.\nPresenter Helena Merriman returns to the story with the reporters who were there on the ground. What did they get right first time around? And, in the chaos and confusion of unfolding events, what did they miss?\nThe History Bureau revisits the defining stories of our times with the reporters who first covered them."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© (C) BBC 2026"
+        },
+        "title": {
+          "label": "The History Bureau - BBC"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/the-history-bureau/id1867158737?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/the-history-bureau/id1867158737?uo=2",
+          "attributes": {
+            "im:id": "1867158737"
+          }
+        },
+        "im:artist": {
+          "label": "BBC"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1487",
+            "term": "History",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-history/id1487?uo=2",
+            "label": "History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-01-15T22:35:00-07:00",
+          "attributes": {
+            "label": "15 January 2026"
           }
         }
       },
@@ -1841,87 +1918,10 @@
             "label": "01 February 2026"
           }
         }
-      },
-      {
-        "im:name": {
-          "label": "הביולוגיה של הרגשות"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/c5/75/3bc57560-7bc9-f1d2-874a-b6b0ca7297d6/mza_5633689254923128451.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/c5/75/3bc57560-7bc9-f1d2-874a-b6b0ca7297d6/mza_5633689254923128451.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/c5/75/3bc57560-7bc9-f1d2-874a-b6b0ca7297d6/mza_5633689254923128451.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "ד\"ר ליאת יקיר היא ביולוגית, דוקטור לגנטיקה מולקולרית ומרצה מוערכת בפודקאסט חדש שינסה לפרק את מערכת ההפעלה האנושית. הרגשות שלנו הם הכוח שמניע אותנו, אבל מה באמת עומד מאחוריהם? בפודקאסט הזה נצלול אל עומק מערכת ההפעלה הרגשית של בני האדם, ונחקור את מנגנוני המוח, ההורמונים והגנים שמעצבים את מי שאנחנו – ואת מי שאנחנו אוהבים. בכל פרק, ליאת משלבת מדע, פסיכולוגיה ואומנות, כדי לפצח את הסודות שמאחורי הרגשות הכי עוצמתיים שלנו."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© All•In"
-        },
-        "title": {
-          "label": "הביולוגיה של הרגשות - All•In"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A9%D7%9C-%D7%94%D7%A8%D7%92%D7%A9%D7%95%D7%AA/id1819301389?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A9%D7%9C-%D7%94%D7%A8%D7%92%D7%A9%D7%95%D7%AA/id1819301389?uo=2",
-          "attributes": {
-            "im:id": "1819301389"
-          }
-        },
-        "im:artist": {
-          "label": "All•In"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1517",
-            "term": "Mental Health",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-health-fitness-mental-health/id1517?uo=2",
-            "label": "Mental Health"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-02T05:16:00-07:00",
-          "attributes": {
-            "label": "02 February 2026"
-          }
-        }
       }
     ],
     "updated": {
-      "label": "2026-02-03T13:28:06-07:00"
+      "label": "2026-02-03T14:24:11-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
