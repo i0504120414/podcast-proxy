@@ -1,11 +1,9 @@
-name: Podcast Proxy
+﻿name: Podcast Proxy
 
 on:
-  # Run every hour to update cache
   schedule:
     - cron: '0 * * * *'
   
-  # Allow manual trigger with parameters
   workflow_dispatch:
     inputs:
       action:
@@ -21,11 +19,13 @@ on:
       country:
         description: 'Country code (for top action)'
         required: false
-        default: 'US'
+        default: 'IL'
   
-  # Trigger via repository dispatch (for API calls)
   repository_dispatch:
     types: [proxy-request]
+
+permissions:
+  contents: write
 
 jobs:
   proxy:
@@ -34,6 +34,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -48,7 +50,7 @@ jobs:
           ACTION: ${{ github.event.inputs.action || github.event.client_payload.action || 'top' }}
           QUERY: ${{ github.event.inputs.query || github.event.client_payload.query || '' }}
           URL: ${{ github.event.inputs.url || github.event.client_payload.url || '' }}
-          COUNTRY: ${{ github.event.inputs.country || github.event.client_payload.country || 'US' }}
+          COUNTRY: ${{ github.event.inputs.country || github.event.client_payload.country || 'IL' }}
           LIMIT: ${{ github.event.inputs.limit || github.event.client_payload.limit || '25' }}
           OUTPUT_DIR: './docs/api'
         run: node api/proxy.js
@@ -61,14 +63,18 @@ jobs:
           git diff --staged --quiet || git commit -m "Update proxy cache - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
 
-  # Job to update all top podcasts for popular countries
   update-top-podcasts:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule'
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
