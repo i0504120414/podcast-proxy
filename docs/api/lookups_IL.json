@@ -15,6 +15,20 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
+    },
+    "1305812824": {
+      "title": "השבוע - פודקאסט הארץ",
+      "author": "הארץ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
+      "itunesId": 1305812824
+    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -49,13 +63,6 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
-    },
-    "1595476982": {
-      "title": "הפודקאסט של נדב פרי",
-      "author": "All•in & Nadav Perry",
-      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
-      "itunesId": 1595476982
     },
     "1597632736": {
       "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
@@ -161,13 +168,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD5854329942",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/600x600bb.jpg",
       "itunesId": 1863974186
-    },
-    "1867158737": {
-      "title": "The History Bureau",
-      "author": "BBC",
-      "feedUrl": "https://podcasts.files.bbci.co.uk/m002q5dk.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/39/eb/a539eb6e-48ea-6849-9ab8-ed5cd71e913d/mza_4145518530234932484.jpg/600x600bb.jpg",
-      "itunesId": 1867158737
     },
     "1872453291": {
       "title": "לא להמציא",
