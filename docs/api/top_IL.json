@@ -77,9 +77,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-01T18:45:00-07:00",
+          "label": "2026-02-03T18:50:00-07:00",
           "attributes": {
-            "label": "01 February 2026"
+            "label": "03 February 2026"
           }
         }
       },
@@ -154,9 +154,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-02T18:00:00-07:00",
+          "label": "2026-02-03T18:00:00-07:00",
           "attributes": {
-            "label": "02 February 2026"
+            "label": "03 February 2026"
           }
         }
       },
@@ -1605,9 +1605,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-01-27T20:00:00-07:00",
+          "label": "2026-02-03T20:00:00-07:00",
           "attributes": {
-            "label": "27 January 2026"
+            "label": "03 February 2026"
           }
         }
       },
@@ -1921,7 +1921,7 @@
       }
     ],
     "updated": {
-      "label": "2026-02-03T17:24:05-07:00"
+      "label": "2026-02-03T20:06:40-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
