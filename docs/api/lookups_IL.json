@@ -15,6 +15,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
+    "1120184157": {
+      "title": "ציון 3",
+      "author": "יונתן נמרודי וראם שרמן",
+      "feedUrl": "http://tziun3.co.il/?feed=podcast",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/600x600bb.jpg",
+      "itunesId": 1120184157
+    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -77,13 +84,6 @@
       "feedUrl": "https://anchor.fm/s/ef1f5500/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/43/24/05/432405e8-475e-9bcd-645a-2eff84ae7767/mza_10621112407198752165.png/600x600bb.jpg",
       "itunesId": 1608693224
-    },
-    "1618776201": {
-      "title": "ONE Podcasts - מכבי ת\"א",
-      "author": "ONE PODCASTS",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/ae6ed7c5-9419-4a64-8b67-ae6e00cf868a/28b20abd-bcea-4f64-b948-ae7400daa4b8/9b9bec0e-f1aa-4686-94d8-ae7400db13d5/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/600x600bb.jpg",
-      "itunesId": 1618776201
     },
     "1623315247": {
       "title": "פודקאסט רצח",
@@ -155,6 +155,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/600x600bb.jpg",
       "itunesId": 1829005814
     },
+    "1849101750": {
+      "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
+      "author": "פיני גרשון ואהרל'ה ויסברג | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
+      "itunesId": 1849101750
+    },
     "1859419744": {
       "title": "פאסיב אגרסיב",
       "author": "אלונה סער וטליה ברטפלד | Be.po",
@@ -168,13 +175,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD5854329942",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/ee/4c/c1ee4cec-1dd5-edc1-0afd-057e6eb04b7b/mza_15558907023091496445.jpeg/600x600bb.jpg",
       "itunesId": 1863974186
-    },
-    "1872453291": {
-      "title": "לא להמציא",
-      "author": "All•in",
-      "feedUrl": "https://media.rss.com/lo-lahmzie/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
-      "itunesId": 1872453291
     }
   }
 }
