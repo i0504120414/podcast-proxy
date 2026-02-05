@@ -29,12 +29,26 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/600x600bb.jpg",
       "itunesId": 1198989209
     },
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
+    },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
       "author": "הארץ",
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
+    },
+    "1441247448": {
+      "title": "האינטרסנטים",
+      "author": "TheMarker",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
+      "itunesId": 1441247448
     },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -120,13 +134,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
     },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
-    },
     "1800224338": {
       "title": "למי אכפת",
       "author": "בית הפודיום",
@@ -140,13 +147,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1829005814": {
-      "title": "הרעיון",
-      "author": "דניאל הלפנבאום",
-      "feedUrl": "https://anchor.fm/s/101e46bbc/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/8a/e8/468ae8c4-a0ab-edd3-a688-fdd96dc29a22/mza_9713033263522006192.jpg/600x600bb.jpg",
-      "itunesId": 1829005814
     },
     "1849101750": {
       "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
