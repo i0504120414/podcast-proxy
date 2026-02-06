@@ -15,13 +15,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1120184157": {
-      "title": "ציון 3",
-      "author": "יונתן נמרודי וראם שרמן",
-      "feedUrl": "http://tziun3.co.il/?feed=podcast",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/600x600bb.jpg",
-      "itunesId": 1120184157
-    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -84,6 +77,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1581095607": {
+      "title": "הקול מקצועי",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD7291939334",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/8f/09/ea8f0980-64de-608e-0a8a-dd87f6976d24/mza_7397544714691153895.jpeg/600x600bb.jpg",
+      "itunesId": 1581095607
     },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
