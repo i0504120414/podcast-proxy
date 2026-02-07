@@ -36,13 +36,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
       "itunesId": 1340384819
     },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
-    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -56,6 +49,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
+    },
+    "1526992301": {
+      "title": "לשחרר את הדב",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
+      "itunesId": 1526992301
     },
     "1553686409": {
       "title": "אחד ביום",
