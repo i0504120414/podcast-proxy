@@ -36,6 +36,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
       "itunesId": 1340384819
     },
+    "1441247448": {
+      "title": "האינטרסנטים",
+      "author": "TheMarker",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
+      "itunesId": 1441247448
+    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -49,6 +56,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
+    },
+    "1526992301": {
+      "title": "לשחרר את הדב",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
+      "itunesId": 1526992301
     },
     "1553686409": {
       "title": "אחד ביום",
@@ -70,13 +84,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
       "itunesId": 1572797640
-    },
-    "1592443967": {
-      "title": "נכנסים לפינות עם רז ספני ומתן פרץ",
-      "author": "Audioter | אודיותר",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/aeefd022-0ca4-40d1-802c-ad73006283e2/a00c1d1d-190b-4d9d-a061-ad730062dcd0/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/81/b2/ae81b274-11c5-eaaf-6629-ae3eeb75b770/mza_9119264976209783107.jpg/600x600bb.jpg",
-      "itunesId": 1592443967
     },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
@@ -112,6 +119,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
+    },
+    "1687268668": {
+      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
+      "author": "eco99fm",
+      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
+      "itunesId": 1687268668
     },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
@@ -154,20 +168,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1849101750": {
-      "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
-      "author": "פיני גרשון ואהרל'ה ויסברג | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
-      "itunesId": 1849101750
-    },
-    "1863195700": {
-      "title": "אונלי פאן",
-      "author": "וואלה",
-      "feedUrl": "https://www.spreaker.com/show/6830551/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/78/6c/6e/786c6e7c-ac08-3038-d509-06ae17f363a5/mza_13687414550845948421.jpg/600x600bb.jpg",
-      "itunesId": 1863195700
     },
     "1870100669": {
       "title": "אסי ויעל",
