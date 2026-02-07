@@ -50,13 +50,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
-    "1526992301": {
-      "title": "לשחרר את הדב",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
-      "itunesId": 1526992301
-    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -70,6 +63,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1572797640": {
+      "title": "חוץ לארץ",
+      "author": "הארץ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
+      "itunesId": 1572797640
     },
     "1592443967": {
       "title": "נכנסים לפינות עם רז ספני ומתן פרץ",
@@ -112,13 +112,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
-    },
-    "1687268668": {
-      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
-      "author": "eco99fm",
-      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
-      "itunesId": 1687268668
     },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
@@ -168,6 +161,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
       "itunesId": 1849101750
+    },
+    "1863195700": {
+      "title": "אונלי פאן",
+      "author": "וואלה",
+      "feedUrl": "https://www.spreaker.com/show/6830551/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/78/6c/6e/786c6e7c-ac08-3038-d509-06ae17f363a5/mza_13687414550845948421.jpg/600x600bb.jpg",
+      "itunesId": 1863195700
     },
     "1870100669": {
       "title": "אסי ויעל",
