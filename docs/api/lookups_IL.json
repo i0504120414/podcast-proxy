@@ -22,13 +22,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/600x600bb.jpg",
       "itunesId": 1198989209
     },
-    "1224046559": {
-      "title": "טייכר וזרחוביץ׳",
-      "author": "Radio Tel Aviv",
-      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
-      "itunesId": 1224046559
-    },
     "1248230651": {
       "title": "היסטוריה לילדים History for children",
       "author": "כאן | Kan",
@@ -49,13 +42,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/8a5aa674-a749-43c7-86c3-b31b00e06274/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
       "itunesId": 1340384819
-    },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
     },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -98,6 +84,20 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
       "itunesId": 1572797640
+    },
+    "1592443967": {
+      "title": "נכנסים לפינות עם רז ספני ומתן פרץ",
+      "author": "Audioter | אודיותר",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/aeefd022-0ca4-40d1-802c-ad73006283e2/a00c1d1d-190b-4d9d-a061-ad730062dcd0/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/81/b2/ae81b274-11c5-eaaf-6629-ae3eeb75b770/mza_9119264976209783107.jpg/600x600bb.jpg",
+      "itunesId": 1592443967
+    },
+    "1595476982": {
+      "title": "הפודקאסט של נדב פרי",
+      "author": "All•in & Nadav Perry",
+      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
+      "itunesId": 1595476982
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
