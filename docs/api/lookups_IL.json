@@ -1,20 +1,6 @@
 {
   "success": true,
   "lookups": {
-    "900613182": {
-      "title": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/4227531/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/600x600bb.jpg",
-      "itunesId": 900613182
-    },
-    "1019124387": {
-      "title": "גיקונומי",
-      "author": "ראם שרמן ודורון ניר",
-      "feedUrl": "https://feed.podbean.com/geekonomy/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/20/a5/ba/20a5ba27-76cf-1723-c152-c1bad503295a/mza_8981528332580889852.jpg/600x600bb.jpg",
-      "itunesId": 1019124387
-    },
     "1076440606": {
       "title": "הפודיום",
       "author": "בית הפודיום",
@@ -29,12 +15,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/600x600bb.jpg",
       "itunesId": 1198989209
     },
-    "1305812824": {
-      "title": "השבוע - פודקאסט הארץ",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
-      "itunesId": 1305812824
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
     },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -42,6 +28,13 @@
       "feedUrl": "https://www.spreaker.com/show/4228834/episodes/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/600x600bb.jpg",
       "itunesId": 1441947841
+    },
+    "1473410240": {
+      "title": "פודקאסט ברצלונה: בארסה מאניה",
+      "author": "בארסה מאניה",
+      "feedUrl": "https://feeds.castos.com/wxwzr",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/86/7b/dc867b89-011b-7bcd-6044-55924a4d8967/mza_2612208396107887707.jpg/600x600bb.jpg",
+      "itunesId": 1473410240
     },
     "1519225032": {
       "title": "בזמן שעבדתם",
@@ -78,6 +71,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/81/b2/ae81b274-11c5-eaaf-6629-ae3eeb75b770/mza_9119264976209783107.jpg/600x600bb.jpg",
       "itunesId": 1592443967
     },
+    "1595476982": {
+      "title": "הפודקאסט של נדב פרי",
+      "author": "All•in & Nadav Perry",
+      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
+      "itunesId": 1595476982
+    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -98,6 +98,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
+    },
+    "1687268668": {
+      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
+      "author": "eco99fm",
+      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
+      "itunesId": 1687268668
     },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
@@ -147,13 +154,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1824434059": {
-      "title": "ספיל איט Spill It",
-      "author": "mako",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/8164fd4d-fe13-4c37-8fcb-b2fd00a693bb/0b5cd02d-b00c-45de-8e39-b2fd00a69985/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/b6/a5/99b6a5a0-cb16-f14a-abb9-33b6f7c9c315/mza_16896247981960548795.jpg/600x600bb.jpg",
-      "itunesId": 1824434059
     },
     "1863974186": {
       "title": "נלי ולירון",
