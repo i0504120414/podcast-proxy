@@ -1,13 +1,6 @@
 {
   "success": true,
   "lookups": {
-    "900613182": {
-      "title": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/4227531/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/600x600bb.jpg",
-      "itunesId": 900613182
-    },
     "1076440606": {
       "title": "הפודיום",
       "author": "בית הפודיום",
@@ -71,13 +64,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
       "itunesId": 1526992301
     },
-    "1550747153": {
-      "title": "הכותרת",
-      "author": "שרון כידון | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
-      "itunesId": 1550747153
-    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -91,6 +77,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1597632736": {
+      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
+      "itunesId": 1597632736
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -175,6 +168,13 @@
       "feedUrl": "https://media.rss.com/lo-lahmzie/feed.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
       "itunesId": 1872453291
+    },
+    "1876312299": {
+      "title": "הפאנל החם",
+      "author": "BOXY",
+      "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
+      "itunesId": 1876312299
     }
   }
 }
