@@ -77,9 +77,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-08T18:45:00-07:00",
+          "label": "2026-02-10T18:50:00-07:00",
           "attributes": {
-            "label": "08 February 2026"
+            "label": "10 February 2026"
           }
         }
       },
@@ -154,9 +154,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-08T18:00:00-07:00",
+          "label": "2026-02-10T18:20:00-07:00",
           "attributes": {
-            "label": "08 February 2026"
+            "label": "10 February 2026"
           }
         }
       },
@@ -1303,9 +1303,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-04T22:45:00-07:00",
+          "label": "2026-02-10T19:00:00-07:00",
           "attributes": {
-            "label": "04 February 2026"
+            "label": "10 February 2026"
           }
         }
       },
@@ -1759,9 +1759,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-08T20:00:00-07:00",
+          "label": "2026-02-10T20:00:00-07:00",
           "attributes": {
-            "label": "08 February 2026"
+            "label": "10 February 2026"
           }
         }
       },
@@ -1833,9 +1833,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-01-27T20:00:00-07:00",
+          "label": "2026-02-03T20:00:00-07:00",
           "attributes": {
-            "label": "27 January 2026"
+            "label": "03 February 2026"
           }
         }
       },
@@ -1915,7 +1915,7 @@
       }
     ],
     "updated": {
-      "label": "2026-02-10T17:49:44-07:00"
+      "label": "2026-02-10T20:25:27-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
