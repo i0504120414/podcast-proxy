@@ -162,160 +162,6 @@
       },
       {
         "im:name": {
-          "label": "הפאנל החם"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "ליבר בלילתי מכניסה אתכן לקבוצת הוואטסאפ הכי לוהטת במדינה 🔥 יחד עם החברות הכי טובות אריאל רייס ומאיה אביגד הן מדברות על ה כ ל, בלי פילטרים וייסורי מצפון 🔥 מזגו כוס יין, שימו מסכת פנים, והצטרפו לפאנל החם"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© BOXY"
-        },
-        "title": {
-          "label": "הפאנל החם - BOXY"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%90%D7%A0%D7%9C-%D7%94%D7%97%D7%9D/id1876312299?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%90%D7%A0%D7%9C-%D7%94%D7%97%D7%9D/id1876312299?uo=2",
-          "attributes": {
-            "im:id": "1876312299"
-          }
-        },
-        "im:artist": {
-          "label": "BOXY"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-10T09:47:00-07:00",
-          "attributes": {
-            "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "חיות כיס Hayot Kiss"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "סיפורים על כלכלה במילים של בני אדם. מגישים: שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי. עורכת: ליהיא צדוק. מפיק: עדי אפרת. עורך סאונד: טל וניג."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 כאן"
-        },
-        "title": {
-          "label": "חיות כיס Hayot Kiss - כאן | Kan"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2",
-          "attributes": {
-            "im:id": "1198989209"
-          }
-        },
-        "im:artist": {
-          "label": "כאן | Kan"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-10T19:00:00-07:00",
-          "attributes": {
-            "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "פודקאסט שולחן 4"
         },
         "im:image": [
@@ -393,30 +239,30 @@
       },
       {
         "im:name": {
-          "label": "הפודיום"
+          "label": "הפאנל החם"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
+          "label": "ליבר בלילתי מכניסה אתכן לקבוצת הוואטסאפ הכי לוהטת במדינה 🔥 יחד עם החברות הכי טובות אריאל רייס ומאיה אביגד הן מדברות על ה כ ל, בלי פילטרים וייסורי מצפון 🔥 מזגו כוס יין, שימו מסכת פנים, והצטרפו לפאנל החם"
         },
         "im:price": {
           "label": "Get",
@@ -432,193 +278,39 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2020 All rights reserved."
+          "label": "© BOXY"
         },
         "title": {
-          "label": "הפודיום - בית הפודיום"
+          "label": "הפאנל החם - BOXY"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%90%D7%A0%D7%9C-%D7%94%D7%97%D7%9D/id1876312299?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%90%D7%A0%D7%9C-%D7%94%D7%97%D7%9D/id1876312299?uo=2",
           "attributes": {
-            "im:id": "1076440606"
+            "im:id": "1876312299"
           }
         },
         "im:artist": {
-          "label": "בית הפודיום"
+          "label": "BOXY"
         },
         "category": {
           "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-10T04:44:00-07:00",
+          "label": "2026-02-10T09:47:00-07:00",
           "attributes": {
             "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "בזמן שעבדתם"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 makopod"
-        },
-        "title": {
-          "label": "בזמן שעבדתם - mako מאקו"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
-          "attributes": {
-            "im:id": "1519225032"
-          }
-        },
-        "im:artist": {
-          "label": "mako מאקו"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1528",
-            "term": "Tech News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
-            "label": "Tech News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-11T02:07:00-07:00",
-          "attributes": {
-            "label": "11 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "פודקאסט רצח"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "רוצחים סדרתיים. כן, חתיכת נושא. בסדרת \"פודקאסט רצח\" נציג לכם את הרוצחים (והרוצחות!) הסדרתיים הידועים יותר והידועים פחות בעולם וננסה להבין ביחד מה, בעצם, הם רצו להשיג (חוץ מהקטע עם הדם והגופות).\nמאיה ושי, עובדים בחברת אינטרנט כלשהי, עושים לכם סיור בעולם האפל\nלחנות המרצ'נדייז של פודקאסט רצח, תחפשו פודקאסט רצח חנות בגוגל \nhttps://www.podcastretzach.co.il/"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Maya Gazit Shay Magal"
-        },
-        "title": {
-          "label": "פודקאסט רצח - Maya Gazit Shay Magal"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A8%D7%A6%D7%97/id1623315247?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A8%D7%A6%D7%97/id1623315247?uo=2",
-          "attributes": {
-            "im:id": "1623315247"
-          }
-        },
-        "im:artist": {
-          "label": "Maya Gazit Shay Magal"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-01-18T01:59:00-07:00",
-          "attributes": {
-            "label": "18 January 2026"
           }
         }
       },
@@ -701,30 +393,30 @@
       },
       {
         "im:name": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+          "label": "פודקאסט רצח"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "תוכנית הבוקר של eco99fm!טל ברמן, תם אהרון ואביה פרחיכל יום בין 7:00-9:30"
+          "label": "רוצחים סדרתיים. כן, חתיכת נושא. בסדרת \"פודקאסט רצח\" נציג לכם את הרוצחים (והרוצחות!) הסדרתיים הידועים יותר והידועים פחות בעולם וננסה להבין ביחד מה, בעצם, הם רצו להשיג (חוץ מהקטע עם הדם והגופות).\nמאיה ושי, עובדים בחברת אינטרנט כלשהי, עושים לכם סיור בעולם האפל\nלחנות המרצ'נדייז של פודקאסט רצח, תחפשו פודקאסט רצח חנות בגוגל \nhttps://www.podcastretzach.co.il/"
         },
         "im:price": {
           "label": "Get",
@@ -740,26 +432,331 @@
           }
         },
         "rights": {
-          "label": "© 2026 בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+          "label": "© Maya Gazit Shay Magal"
         },
         "title": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי - eco99fm"
+          "label": "פודקאסט רצח - Maya Gazit Shay Magal"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A8%D7%A6%D7%97/id1623315247?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A8%D7%A6%D7%97/id1623315247?uo=2",
           "attributes": {
-            "im:id": "1687268668"
+            "im:id": "1623315247"
           }
         },
         "im:artist": {
-          "label": "eco99fm"
+          "label": "Maya Gazit Shay Magal"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-01-18T01:59:00-07:00",
+          "attributes": {
+            "label": "18 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "בזמן שעבדתם"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 makopod"
+        },
+        "title": {
+          "label": "בזמן שעבדתם - mako מאקו"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
+          "attributes": {
+            "im:id": "1519225032"
+          }
+        },
+        "im:artist": {
+          "label": "mako מאקו"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1528",
+            "term": "Tech News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
+            "label": "Tech News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-11T02:07:00-07:00",
+          "attributes": {
+            "label": "11 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "חיות כיס Hayot Kiss"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "סיפורים על כלכלה במילים של בני אדם. מגישים: שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי. עורכת: ליהיא צדוק. מפיק: עדי אפרת. עורך סאונד: טל וניג."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 כאן"
+        },
+        "title": {
+          "label": "חיות כיס Hayot Kiss - כאן | Kan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2",
+          "attributes": {
+            "im:id": "1198989209"
+          }
+        },
+        "im:artist": {
+          "label": "כאן | Kan"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-10T19:00:00-07:00",
+          "attributes": {
+            "label": "10 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "הפודיום"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2020 All rights reserved."
+        },
+        "title": {
+          "label": "הפודיום - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
+          "attributes": {
+            "im:id": "1076440606"
+          }
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-10T04:44:00-07:00",
+          "attributes": {
+            "label": "10 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "אסי ויעל"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "יעל פוליאקוב ואסי עזר, שני טיפוסים מאד מאד שונים זה מזה, נפגשים לדבר ולצחוק על הכל: אהבה, זוגיות, הורות, חרדות ועוד"
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "title": {
+          "label": "אסי ויעל - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2",
+          "attributes": {
+            "im:id": "1870100669"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
         },
         "category": {
           "attributes": {
@@ -770,86 +767,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-10T00:00:00-07:00",
+          "label": "2026-02-04T02:00:00-07:00",
           "attributes": {
-            "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "ציון 3"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "פודקאסט כדורגל מאת יונתן נמרודי וראם שרמן"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© @2016 Geekonomy"
-        },
-        "title": {
-          "label": "ציון 3 - יונתן נמרודי וראם שרמן"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A6%D7%99%D7%95%D7%9F-3/id1120184157?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A6%D7%99%D7%95%D7%9F-3/id1120184157?uo=2",
-          "attributes": {
-            "im:id": "1120184157"
-          }
-        },
-        "im:artist": {
-          "label": "יונתן נמרודי וראם שרמן"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1545",
-            "term": "Sports",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport/id1545?uo=2",
-            "label": "Sport"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-10T11:51:00-07:00",
-          "attributes": {
-            "label": "10 February 2026"
+            "label": "04 February 2026"
           }
         }
       },
@@ -932,160 +852,6 @@
       },
       {
         "im:name": {
-          "label": "מפלגת המחשבות"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "נדמה שלא משנה בכמה מהדורות חדשות נצפה וכמה ויכוחים פוליטיים ננהל, משהו מהותי עדיין יחמוק מאיתנו: מהם הרעיונות הגדולים שמניעים את נבחרי הציבור, את היריבים הפוליטיים שלנו ואותנו? איך המחלוקות של ימינו קשורות לדיונים הסוערים שהתנהלו לפני אלפי שנים באקדמיה האפלטונית, במנזרים הטאואיסטיים ובבתי המדרש היהודיים?\nבמפלגת המחשבות ד״ר מיכה גודמן ואפרת שפירא רוזנברג עושים זום-אווט מאירועי השעה, ומנתחים את הפוליטיקה הישראלית בעזרת התיאוריות של גדולי הפילוסופים וההוגים. עם מיליוני האזנות וקהילת מאזינים מעורבת, ההסכת מוכיח שוב ושוב שכשחושבים על זה לעומק, אין באמת דבר כזה פוליטיקה קטנה.רוצים לחשוב ולכתוב על הרעיונות של מפלגת? הצטרפו לקהילת הפייסבוק שלנו  >> "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 מפלגת המחשבות"
-        },
-        "title": {
-          "label": "מפלגת המחשבות - Beit Avi Chai"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2",
-          "attributes": {
-            "im:id": "1560225085"
-          }
-        },
-        "im:artist": {
-          "label": "Beit Avi Chai"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-03T05:00:00-07:00",
-          "attributes": {
-            "label": "03 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "השבוע - פודקאסט הארץ"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"השבוע\" - הפודקאסט השבועי של \"הארץ\". מדי יום שלישי וחמישי יארח ליאור קודנר את מיטב המומחים, הכותבים והעיתונאים כדי לדבר על הנושאים המרכזיים שעל סדר היום."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 הארץ"
-        },
-        "title": {
-          "label": "השבוע - פודקאסט הארץ - הארץ"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%94%D7%90%D7%A8%D7%A5/id1305812824?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%94%D7%90%D7%A8%D7%A5/id1305812824?uo=2",
-          "attributes": {
-            "im:id": "1305812824"
-          }
-        },
-        "im:artist": {
-          "label": "הארץ"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1489",
-            "term": "News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news/id1489?uo=2",
-            "label": "News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-05T05:04:00-07:00",
-          "attributes": {
-            "label": "05 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "שיר אחד One Song"
         },
         "im:image": [
@@ -1158,6 +924,83 @@
           "label": "2026-02-08T19:00:00-07:00",
           "attributes": {
             "label": "08 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "מפלגת המחשבות"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "נדמה שלא משנה בכמה מהדורות חדשות נצפה וכמה ויכוחים פוליטיים ננהל, משהו מהותי עדיין יחמוק מאיתנו: מהם הרעיונות הגדולים שמניעים את נבחרי הציבור, את היריבים הפוליטיים שלנו ואותנו? איך המחלוקות של ימינו קשורות לדיונים הסוערים שהתנהלו לפני אלפי שנים באקדמיה האפלטונית, במנזרים הטאואיסטיים ובבתי המדרש היהודיים?\nבמפלגת המחשבות ד״ר מיכה גודמן ואפרת שפירא רוזנברג עושים זום-אווט מאירועי השעה, ומנתחים את הפוליטיקה הישראלית בעזרת התיאוריות של גדולי הפילוסופים וההוגים. עם מיליוני האזנות וקהילת מאזינים מעורבת, ההסכת מוכיח שוב ושוב שכשחושבים על זה לעומק, אין באמת דבר כזה פוליטיקה קטנה.רוצים לחשוב ולכתוב על הרעיונות של מפלגת? הצטרפו לקהילת הפייסבוק שלנו  >> "
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 מפלגת המחשבות"
+        },
+        "title": {
+          "label": "מפלגת המחשבות - Beit Avi Chai"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2",
+          "attributes": {
+            "im:id": "1560225085"
+          }
+        },
+        "im:artist": {
+          "label": "Beit Avi Chai"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-03T05:00:00-07:00",
+          "attributes": {
+            "label": "03 February 2026"
           }
         }
       },
@@ -1240,6 +1083,160 @@
       },
       {
         "im:name": {
+          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "תוכנית הבוקר של eco99fm!טל ברמן, תם אהרון ואביה פרחיכל יום בין 7:00-9:30"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+        },
+        "title": {
+          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי - eco99fm"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2",
+          "attributes": {
+            "im:id": "1687268668"
+          }
+        },
+        "im:artist": {
+          "label": "eco99fm"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-11T01:00:00-07:00",
+          "attributes": {
+            "label": "11 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "השבוע - פודקאסט הארץ"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "\"השבוע\" - הפודקאסט השבועי של \"הארץ\". מדי יום שלישי וחמישי יארח ליאור קודנר את מיטב המומחים, הכותבים והעיתונאים כדי לדבר על הנושאים המרכזיים שעל סדר היום."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 הארץ"
+        },
+        "title": {
+          "label": "השבוע - פודקאסט הארץ - הארץ"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%94%D7%90%D7%A8%D7%A5/id1305812824?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%94%D7%90%D7%A8%D7%A5/id1305812824?uo=2",
+          "attributes": {
+            "im:id": "1305812824"
+          }
+        },
+        "im:artist": {
+          "label": "הארץ"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1489",
+            "term": "News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news/id1489?uo=2",
+            "label": "News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-05T05:04:00-07:00",
+          "attributes": {
+            "label": "05 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "לשחרר את הדב"
         },
         "im:image": [
@@ -1310,157 +1307,6 @@
         },
         "im:releaseDate": {
           "label": "2026-02-10T20:00:00-07:00",
-          "attributes": {
-            "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "אסי ויעל"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "יעל פוליאקוב ואסי עזר, שני טיפוסים מאד מאד שונים זה מזה, נפגשים לדבר ולצחוק על הכל: אהבה, זוגיות, הורות, חרדות ועוד"
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "title": {
-          "label": "אסי ויעל - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2",
-          "attributes": {
-            "im:id": "1870100669"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-04T02:00:00-07:00",
-          "attributes": {
-            "label": "04 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "מי מספר לכם? עם רומי גיאור"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "רומי גיאור, בוגרת תכניות הריאליטי \"2025\" ו\"האח הגדול vip\" ומי שמוכרת מהשנים האחרונות כמראיינת ומנחה ב\"ישראל בידור״, \"מאקו סלבס ו״חי בלילה״, משיקה פודקאסט אישי חדש\n\nמדי שבוע, רומי תארח בו מיטב הסלבס שבסביבות גילה, שיספרו לה על המשברים והשיאים המלווים אותם בחייהם. רומי מבטיחה תכנית נקייה מבולשיט ופוליטיקלי קורקט. היא מתחייבת לגעת בעצבים הרגישים ביותר של המרואיינים ולדבר על כל מה שמעסיק אותם, אותה ובעיקר מעניין אותנו: סקס, דייטים ומערכות יחסים, התמודדות עם שברון לב, רשתות חברתיות, חברויות, קריירה וכסף. מפעם לפעם, רומי תקליט פרקי ספיישל קצרים בהם תספק הצצה לחייה האישיים. "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 ADIO"
-        },
-        "title": {
-          "label": "מי מספר לכם? עם רומי גיאור - אודיותר | Audioter"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99-%D7%9E%D7%A1%D7%A4%D7%A8-%D7%9C%D7%9B%D7%9D-%D7%A2%D7%9D-%D7%A8%D7%95%D7%9E%D7%99-%D7%92%D7%99%D7%90%D7%95%D7%A8/id1770285682?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99-%D7%9E%D7%A1%D7%A4%D7%A8-%D7%9C%D7%9B%D7%9D-%D7%A2%D7%9D-%D7%A8%D7%95%D7%9E%D7%99-%D7%92%D7%99%D7%90%D7%95%D7%A8/id1770285682?uo=2",
-          "attributes": {
-            "im:id": "1770285682"
-          }
-        },
-        "im:artist": {
-          "label": "אודיותר | Audioter"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1324",
-            "term": "Society & Culture",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
-            "label": "Society & Culture"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-10T07:00:00-07:00",
           "attributes": {
             "label": "10 February 2026"
           }
@@ -1545,6 +1391,237 @@
       },
       {
         "im:name": {
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "התשובה הוא הפודקאסט המצליח בישראל שמחבר בין הורים וילדים .\n\nהמנחה, דורון פישלר, נותן תשובות שנונות ומפתיעות לשאלות הקטנות והגדולות, הטפשיות והמחוכמות, המוזרות והמרתקות של החיים, ובפרקים סיפוריים הוא משלב מדע, היסטוריה, תרבות והומור.\n\nלעדכונים לגבי אירועי לייב ועוד הירשמו לעדכונים באתר רשת עושים היסטוריה."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright PI Media"
+        },
+        "title": {
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2",
+          "attributes": {
+            "im:id": "1441947841"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-03T05:59:00-07:00",
+          "attributes": {
+            "label": "03 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "מי מספר לכם? עם רומי גיאור"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "רומי גיאור, בוגרת תכניות הריאליטי \"2025\" ו\"האח הגדול vip\" ומי שמוכרת מהשנים האחרונות כמראיינת ומנחה ב\"ישראל בידור״, \"מאקו סלבס ו״חי בלילה״, משיקה פודקאסט אישי חדש\n\nמדי שבוע, רומי תארח בו מיטב הסלבס שבסביבות גילה, שיספרו לה על המשברים והשיאים המלווים אותם בחייהם. רומי מבטיחה תכנית נקייה מבולשיט ופוליטיקלי קורקט. היא מתחייבת לגעת בעצבים הרגישים ביותר של המרואיינים ולדבר על כל מה שמעסיק אותם, אותה ובעיקר מעניין אותנו: סקס, דייטים ומערכות יחסים, התמודדות עם שברון לב, רשתות חברתיות, חברויות, קריירה וכסף. מפעם לפעם, רומי תקליט פרקי ספיישל קצרים בהם תספק הצצה לחייה האישיים. "
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 ADIO"
+        },
+        "title": {
+          "label": "מי מספר לכם? עם רומי גיאור - אודיותר | Audioter"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99-%D7%9E%D7%A1%D7%A4%D7%A8-%D7%9C%D7%9B%D7%9D-%D7%A2%D7%9D-%D7%A8%D7%95%D7%9E%D7%99-%D7%92%D7%99%D7%90%D7%95%D7%A8/id1770285682?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99-%D7%9E%D7%A1%D7%A4%D7%A8-%D7%9C%D7%9B%D7%9D-%D7%A2%D7%9D-%D7%A8%D7%95%D7%9E%D7%99-%D7%92%D7%99%D7%90%D7%95%D7%A8/id1770285682?uo=2",
+          "attributes": {
+            "im:id": "1770285682"
+          }
+        },
+        "im:artist": {
+          "label": "אודיותר | Audioter"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture/id1324?uo=2",
+            "label": "Society & Culture"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-10T07:00:00-07:00",
+          "attributes": {
+            "label": "10 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "ציון 3"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "פודקאסט כדורגל מאת יונתן נמרודי וראם שרמן"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© @2016 Geekonomy"
+        },
+        "title": {
+          "label": "ציון 3 - יונתן נמרודי וראם שרמן"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A6%D7%99%D7%95%D7%9F-3/id1120184157?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A6%D7%99%D7%95%D7%9F-3/id1120184157?uo=2",
+          "attributes": {
+            "im:id": "1120184157"
+          }
+        },
+        "im:artist": {
+          "label": "יונתן נמרודי וראם שרמן"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1545",
+            "term": "Sports",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport/id1545?uo=2",
+            "label": "Sport"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-10T11:51:00-07:00",
+          "attributes": {
+            "label": "10 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "עושים פסיכולוגיה עם מעין בוימן משיטה"
         },
         "im:image": [
@@ -1617,160 +1694,6 @@
           "label": "2026-01-28T02:43:00-07:00",
           "attributes": {
             "label": "28 January 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "טייכר וזרחוביץ׳"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "התוכנית של שון ורון"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Radio Tel Aviv 2025"
-        },
-        "title": {
-          "label": "טייכר וזרחוביץ׳ - Radio Tel Aviv"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%98%D7%99%D7%99%D7%9B%D7%A8-%D7%95%D7%96%D7%A8%D7%97%D7%95%D7%91%D7%99%D7%A5/id1224046559?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%98%D7%99%D7%99%D7%9B%D7%A8-%D7%95%D7%96%D7%A8%D7%97%D7%95%D7%91%D7%99%D7%A5/id1224046559?uo=2",
-          "attributes": {
-            "im:id": "1224046559"
-          }
-        },
-        "im:artist": {
-          "label": "Radio Tel Aviv"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1301",
-            "term": "Arts",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts/id1301?uo=2",
-            "label": "Arts"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-11T08:04:00-07:00",
-          "attributes": {
-            "label": "11 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "הכותרת"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "במציאות המורכבת של היום צריך להקשיב בין המילים. בכל בוקר כתבי ynet ומומחים נוספים בוחנים את הכותרת המרכזית שעל סדר היום."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 ynet"
-        },
-        "title": {
-          "label": "הכותרת - שרון כידון | Be.po"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9B%D7%95%D7%AA%D7%A8%D7%AA/id1550747153?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9B%D7%95%D7%AA%D7%A8%D7%AA/id1550747153?uo=2",
-          "attributes": {
-            "im:id": "1550747153"
-          }
-        },
-        "im:artist": {
-          "label": "שרון כידון | Be.po"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-09T19:00:00-07:00",
-          "attributes": {
-            "label": "09 February 2026"
           }
         }
       },
@@ -1853,30 +1776,30 @@
       },
       {
         "im:name": {
-          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
+          "label": "טייכר וזרחוביץ׳"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "התשובה הוא הפודקאסט המצליח בישראל שמחבר בין הורים וילדים .\n\nהמנחה, דורון פישלר, נותן תשובות שנונות ומפתיעות לשאלות הקטנות והגדולות, הטפשיות והמחוכמות, המוזרות והמרתקות של החיים, ובפרקים סיפוריים הוא משלב מדע, היסטוריה, תרבות והומור.\n\nלעדכונים לגבי אירועי לייב ועוד הירשמו לעדכונים באתר רשת עושים היסטוריה."
+          "label": "התוכנית של שון ורון"
         },
         "im:price": {
           "label": "Get",
@@ -1892,45 +1815,122 @@
           }
         },
         "rights": {
-          "label": "© Copyright PI Media"
+          "label": "© Radio Tel Aviv 2025"
         },
         "title": {
-          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler - רשת עושים היסטוריה"
+          "label": "טייכר וזרחוביץ׳ - Radio Tel Aviv"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%98%D7%99%D7%99%D7%9B%D7%A8-%D7%95%D7%96%D7%A8%D7%97%D7%95%D7%91%D7%99%D7%A5/id1224046559?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%98%D7%99%D7%99%D7%9B%D7%A8-%D7%95%D7%96%D7%A8%D7%97%D7%95%D7%91%D7%99%D7%A5/id1224046559?uo=2",
           "attributes": {
-            "im:id": "1441947841"
+            "im:id": "1224046559"
           }
         },
         "im:artist": {
-          "label": "רשת עושים היסטוריה"
+          "label": "Radio Tel Aviv"
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1301",
+            "term": "Arts",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts/id1301?uo=2",
+            "label": "Arts"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-03T05:59:00-07:00",
+          "label": "2026-02-11T08:04:00-07:00",
           "attributes": {
-            "label": "03 February 2026"
+            "label": "11 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "לא להמציא"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "רותם רביבו ועמית חן, מהזוגות האהובים והזכורים של המרוץ למיליון, מגיעות לAll•in עם הפודקאסט האהוב, בלי פילטרים ובלי המצאות."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All•in"
+        },
+        "title": {
+          "label": "לא להמציא - All•in"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9C%D7%90-%D7%9C%D7%94%D7%9E%D7%A6%D7%99%D7%90/id1872453291?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9C%D7%90-%D7%9C%D7%94%D7%9E%D7%A6%D7%99%D7%90/id1872453291?uo=2",
+          "attributes": {
+            "im:id": "1872453291"
+          }
+        },
+        "im:artist": {
+          "label": "All•in"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1531",
+            "term": "Entertainment News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-entertainment-news/id1531?uo=2",
+            "label": "Entertainment News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-07T08:21:00-07:00",
+          "attributes": {
+            "label": "07 February 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-02-12T00:38:03-07:00"
+      "label": "2026-02-12T01:42:09-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
