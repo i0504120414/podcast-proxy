@@ -43,13 +43,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
-    "1526992301": {
-      "title": "לשחרר את הדב",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
-      "itunesId": 1526992301
-    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -63,6 +56,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1595476982": {
+      "title": "הפודקאסט של נדב פרי",
+      "author": "All•in & Nadav Perry",
+      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
+      "itunesId": 1595476982
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -106,19 +106,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
       "itunesId": 1759848794
     },
-    "1770285682": {
-      "title": "מי מספר לכם? עם רומי גיאור",
-      "author": "אודיותר | Audioter",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/7b9cdb19-5ded-469b-a1d8-b1cf013295da/3ea3af61-8e70-4493-b50d-b1cf0132beaa/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/04/14/40041441-7205-ba56-bcc6-76c4e3d6ed51/mza_14665522611089097714.jpg/600x600bb.jpg",
-      "itunesId": 1770285682
-    },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
       "author": "בית הפודיום",
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
+    },
+    "1784250421": {
+      "title": "המאמי הלאומית",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
+      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
