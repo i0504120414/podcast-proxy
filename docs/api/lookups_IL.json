@@ -92,6 +92,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
       "itunesId": 1687268668
     },
+    "1702140601": {
+      "title": "פודכספי",
+      "author": "גלצ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/1006bb12-30a8-45e6-acea-b05b00799001/d1706802-afba-4e92-93bf-b05b007cb1ed/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/600x600bb.jpg",
+      "itunesId": 1702140601
+    },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
       "author": "מיכה סטוקס MICHA.STOCKS",
@@ -140,13 +147,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1836732554": {
-      "title": "הרב תובנות",
-      "author": "חיים בוכריס ועדי סי",
-      "feedUrl": "https://anchor.fm/s/105f38c24/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/f2/37/5af2372a-7f1e-47f6-4c0f-73ba8db23e47/mza_10363022726693259050.jpg/600x600bb.jpg",
-      "itunesId": 1836732554
     },
     "1849101750": {
       "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
