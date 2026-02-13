@@ -29,13 +29,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
-    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -70,13 +63,6 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
-    },
-    "1597632736": {
-      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
-      "itunesId": 1597632736
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -148,6 +134,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
     },
+    "1836732554": {
+      "title": "הרב תובנות",
+      "author": "חיים בוכריס ועדי סי",
+      "feedUrl": "https://anchor.fm/s/105f38c24/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/f2/37/5af2372a-7f1e-47f6-4c0f-73ba8db23e47/mza_10363022726693259050.jpg/600x600bb.jpg",
+      "itunesId": 1836732554
+    },
     "1863974186": {
       "title": "נלי ולירון",
       "author": "בית הפודיום",
@@ -168,6 +161,13 @@
       "feedUrl": "https://media.rss.com/lo-lahmzie/feed.xml",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
       "itunesId": 1872453291
+    },
+    "1875673133": {
+      "title": "מילים ביפנית שאין בעברית",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/6778269/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/600x600bb.jpg",
+      "itunesId": 1875673133
     },
     "1876312299": {
       "title": "הפאנל החם",
