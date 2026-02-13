@@ -50,13 +50,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
-    "1526992301": {
-      "title": "לשחרר את הדב",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
-      "itunesId": 1526992301
-    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -154,6 +147,13 @@
       "feedUrl": "https://anchor.fm/s/105f38c24/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/f2/37/5af2372a-7f1e-47f6-4c0f-73ba8db23e47/mza_10363022726693259050.jpg/600x600bb.jpg",
       "itunesId": 1836732554
+    },
+    "1849101750": {
+      "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
+      "author": "פיני גרשון ואהרל'ה ויסברג | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
+      "itunesId": 1849101750
     },
     "1870100669": {
       "title": "אסי ויעל",
