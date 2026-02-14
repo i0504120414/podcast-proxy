@@ -393,83 +393,6 @@
       },
       {
         "im:name": {
-          "label": "בזמן שעבדתם"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 makopod"
-        },
-        "title": {
-          "label": "בזמן שעבדתם - mako מאקו"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
-          "attributes": {
-            "im:id": "1519225032"
-          }
-        },
-        "im:artist": {
-          "label": "mako מאקו"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1528",
-            "term": "Tech News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
-            "label": "Tech News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-11T02:07:00-07:00",
-          "attributes": {
-            "label": "11 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "פודקאסט רצח"
         },
         "im:image": [
@@ -542,6 +465,83 @@
           "label": "2026-01-18T01:59:00-07:00",
           "attributes": {
             "label": "18 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "בזמן שעבדתם"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 makopod"
+        },
+        "title": {
+          "label": "בזמן שעבדתם - mako מאקו"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
+          "attributes": {
+            "im:id": "1519225032"
+          }
+        },
+        "im:artist": {
+          "label": "mako מאקו"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1528",
+            "term": "Tech News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
+            "label": "Tech News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-11T02:07:00-07:00",
+          "attributes": {
+            "label": "11 February 2026"
           }
         }
       },
@@ -778,6 +778,80 @@
       },
       {
         "im:name": {
+          "label": "חוץ לארץ"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "פודקאסט חדשות החוץ של \"הארץ\". בכל שבוע חן ליברמן מביאה זווית קצת אחרת לסיפור חדשותי מהעולם הגדול."
+        },
+        "im:artist": {
+          "label": "הארץ"
+        },
+        "title": {
+          "label": "חוץ לארץ - הארץ"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%95%D7%A5-%D7%9C%D7%90%D7%A8%D7%A5/id1572797640?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%95%D7%A5-%D7%9C%D7%90%D7%A8%D7%A5/id1572797640?uo=2",
+          "attributes": {
+            "im:id": "1572797640"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-12T05:23:00-07:00",
+          "attributes": {
+            "label": "12 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "חיות כיס Hayot Kiss"
         },
         "im:image": [
@@ -850,80 +924,6 @@
           "label": "2026-02-10T19:00:00-07:00",
           "attributes": {
             "label": "10 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "חוץ לארץ"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "פודקאסט חדשות החוץ של \"הארץ\". בכל שבוע חן ליברמן מביאה זווית קצת אחרת לסיפור חדשותי מהעולם הגדול."
-        },
-        "im:artist": {
-          "label": "הארץ"
-        },
-        "title": {
-          "label": "חוץ לארץ - הארץ"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%95%D7%A5-%D7%9C%D7%90%D7%A8%D7%A5/id1572797640?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%95%D7%A5-%D7%9C%D7%90%D7%A8%D7%A5/id1572797640?uo=2",
-          "attributes": {
-            "im:id": "1572797640"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-12T05:23:00-07:00",
-          "attributes": {
-            "label": "12 February 2026"
           }
         }
       },
@@ -1160,83 +1160,6 @@
       },
       {
         "im:name": {
-          "label": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "מיכה סטוקס מגיש הינו חיבור ישיר לערוץ מספר 1 בישראל לשוק ההון, וול סטריט, בורסה, השקעות, מסחר ועוד. \nבמהלך הפודקאסטים - מיכה ישתף מנסיוני מעל 20 שנה בשוק ההון ויספר את סיפורי השוק, מחדשות שבועיות דרך ניתוח השוק ועד השקעות ארוכות טווח\nניתן לצפות בכל הפרקים ועוד בערוץ היוטיוב:\nhttps://www.youtube.com/@Micha.Stocks"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© מיכה סטוקס MICHA.STOCKS"
-        },
-        "title": {
-          "label": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר - מיכה סטוקס MICHA.STOCKS"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9B%D7%94-%D7%A1%D7%98%D7%95%D7%A7%D7%A1-%D7%9E%D7%92%D7%99%D7%A9-%D7%A9%D7%95%D7%A7-%D7%94%D7%94%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A1%D7%94-%D7%95%D7%95%D7%9C-%D7%A1%D7%98%D7%A8%D7%99%D7%98-%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA-%D7%9E%D7%A1%D7%97%D7%A8/id1707589009?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9B%D7%94-%D7%A1%D7%98%D7%95%D7%A7%D7%A1-%D7%9E%D7%92%D7%99%D7%A9-%D7%A9%D7%95%D7%A7-%D7%94%D7%94%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A1%D7%94-%D7%95%D7%95%D7%9C-%D7%A1%D7%98%D7%A8%D7%99%D7%98-%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA-%D7%9E%D7%A1%D7%97%D7%A8/id1707589009?uo=2",
-          "attributes": {
-            "im:id": "1707589009"
-          }
-        },
-        "im:artist": {
-          "label": "מיכה סטוקס MICHA.STOCKS"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1412",
-            "term": "Investing",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business-investing/id1412?uo=2",
-            "label": "Investing"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-13T19:30:00-07:00",
-          "attributes": {
-            "label": "13 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
         },
         "im:image": [
@@ -1314,6 +1237,83 @@
       },
       {
         "im:name": {
+          "label": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "מיכה סטוקס מגיש הינו חיבור ישיר לערוץ מספר 1 בישראל לשוק ההון, וול סטריט, בורסה, השקעות, מסחר ועוד. \nבמהלך הפודקאסטים - מיכה ישתף מנסיוני מעל 20 שנה בשוק ההון ויספר את סיפורי השוק, מחדשות שבועיות דרך ניתוח השוק ועד השקעות ארוכות טווח\nניתן לצפות בכל הפרקים ועוד בערוץ היוטיוב:\nhttps://www.youtube.com/@Micha.Stocks"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© מיכה סטוקס MICHA.STOCKS"
+        },
+        "title": {
+          "label": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר - מיכה סטוקס MICHA.STOCKS"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9B%D7%94-%D7%A1%D7%98%D7%95%D7%A7%D7%A1-%D7%9E%D7%92%D7%99%D7%A9-%D7%A9%D7%95%D7%A7-%D7%94%D7%94%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A1%D7%94-%D7%95%D7%95%D7%9C-%D7%A1%D7%98%D7%A8%D7%99%D7%98-%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA-%D7%9E%D7%A1%D7%97%D7%A8/id1707589009?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9B%D7%94-%D7%A1%D7%98%D7%95%D7%A7%D7%A1-%D7%9E%D7%92%D7%99%D7%A9-%D7%A9%D7%95%D7%A7-%D7%94%D7%94%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A1%D7%94-%D7%95%D7%95%D7%9C-%D7%A1%D7%98%D7%A8%D7%99%D7%98-%D7%94%D7%A9%D7%A7%D7%A2%D7%95%D7%AA-%D7%9E%D7%A1%D7%97%D7%A8/id1707589009?uo=2",
+          "attributes": {
+            "im:id": "1707589009"
+          }
+        },
+        "im:artist": {
+          "label": "מיכה סטוקס MICHA.STOCKS"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1412",
+            "term": "Investing",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business-investing/id1412?uo=2",
+            "label": "Investing"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-13T19:30:00-07:00",
+          "attributes": {
+            "label": "13 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "הסכתוס"
         },
         "im:price": {
@@ -1383,157 +1383,6 @@
           "label": "2025-12-21T04:14:00-07:00",
           "attributes": {
             "label": "21 December 2025"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "המאמי הלאומית"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "המאמי הלאומית!\nמה שהתחיל כחלק מהפודיום - מקבל את הכבוד הראוי לו בפודקאסט נפרד - כיאה לליגה הכי מרגשת, מפתיעה, אותנטית ומוזרה בעולם! \nבכל שבוע, גביזון, ברקוביץ', לפלר ואורחים נוספים יהיו כאן כדי לספר לכם ולבדר אותכם - אודות הליגה הלאומית, זו שקשה איתה, אבל בלתי אפשרי בלעדיה"
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "title": {
-          "label": "המאמי הלאומית - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2",
-          "attributes": {
-            "im:id": "1784250421"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-12T03:17:00-07:00",
-          "attributes": {
-            "label": "12 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "מילים ביפנית שאין בעברית"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": ".״מילים ביפנית שאין בעברית״ הוא פודקאסט שחושף בפנינו את יפן האמיתית, דרך מילה אחת.  \n\nיושי היגוצ'י ודנה נחום הרמן בוחרים בכל פרק מילה יפנית, שאין לה באמת תרגום לעברית\n\n. דרך המילה אנחנו נחשפים לעולם שלם של אורח חיים, תרבות, היסטוריה, טעמים, צבעים וצלילים. וגם אולי נבין - האם ישראלים ויפנים באמת כל כך שונים?\n\nלטיזרים באינסטגרם לחצו כאן ולצפייה בפרקים ביוטיוב לחצו כאן.\n\nלעוד פודקאסטים של רשת עושים היסטוריה לחצו כאן. "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© P.I Media"
-        },
-        "title": {
-          "label": "מילים ביפנית שאין בעברית - רשת עושים היסטוריה"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2",
-          "attributes": {
-            "im:id": "1875673133"
-          }
-        },
-        "im:artist": {
-          "label": "רשת עושים היסטוריה"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1320",
-            "term": "Places & Travel",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture-places-travel/id1320?uo=2",
-            "label": "Places & Travel"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-08T06:45:00-07:00",
-          "attributes": {
-            "label": "08 February 2026"
           }
         }
       },
@@ -1616,7 +1465,7 @@
       },
       {
         "im:name": {
-          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה"
+          "label": "פודכספי"
         },
         "im:price": {
           "label": "Get",
@@ -1627,44 +1476,44 @@
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "פודקאסט הכדורסל של ynet בשיתוף אולפני bizi podclub: פיני גרשון ואהרל'ה ויסברג מדסקסים על כל מה שחם בעונת היורוליג ההיסטורית של הכדורסל הישראלי, ומלווים מקרוב את משחקי היורוליג של מכבי ת\"א והפועל ת\"א, משחקי נבחרת ישראל והקרבות הגדולים בליגת העל"
+          "label": "יצא לכם לשמוע שיר של מתי כספי ולשאול את עצמכם: \"מה עבר לגאון הזה בראש?!\" \n\nאיך זה שכוכב, ברית עולם, לא ידעתי שתלכי ממני, ימי בנימינה, ארץ טרופית יפה, סיבה טובה, מה זאת אהבה - אם נתחיל למנות את כל הקלאסיקות שכספי קשור אליהן ישירות כבר לא יהיה מספיק מקום להסביר על מה בכלל קורה בפודקאסט. \n\n \n\nקבלו את \"פודכספי\", ההסכת החדש של גלי צה\"ל! בהסכת מתי כספי צולל עם ידידו המוזיקאי אוהד בן אבי לסיפורים מאחורי הצלילים - מה הוא אמר כדי לזעזע את גלי עטרי בכוונה? מהי \"שיטת הזרת\", באמצעותה הוא הופך הרמוניות רגילות ל-\"מתי כספיות\", ואיך גורמים ליוסי בנאי, זייפן ידוע שלא ידע לשיר, לבצע את אחד משירי האהבה הגדולים במוזיקה הישראלית?\n\nכל אלה ועוד ב-\"פודכספי\" - שימו אוזן!\n\n \n\nעורך ומגיש: אוהד בן אביראש מחלקת גלצ הסכתים: הדר פרנקנטלעורך מטעם גלצ: ישי חסקיהפקה: נועה ברקאי, ישי חסקיטכנאי סאונד: יהלי שטרוזמןעיצוב גרפי: יובל קופלנדמכין לשידור: שקד משעלתודה מיוחדת מאוד: אור עוזרי, אלון עוזרי\n\nנתראה בפרק הבא של פודכספי!"
         },
         "im:artist": {
-          "label": "פיני גרשון ואהרל'ה ויסברג | Be.po"
+          "label": "גלצ"
         },
         "title": {
-          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה - פיני גרשון ואהרל'ה ויסברג | Be.po"
+          "label": "פודכספי - גלצ"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2",
           "attributes": {
-            "im:id": "1849101750"
+            "im:id": "1702140601"
           }
         },
         "im:contentType": {
@@ -1675,16 +1524,90 @@
         },
         "category": {
           "attributes": {
-            "im:id": "1529",
-            "term": "Sports News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-sports-news/id1529?uo=2",
-            "label": "Sports News"
+            "im:id": "1523",
+            "term": "Music Commentary",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-music-music-commentary/id1523?uo=2",
+            "label": "Music Commentary"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-08T14:54:00-07:00",
+          "label": "2023-09-14T04:17:00-07:00",
           "attributes": {
-            "label": "08 February 2026"
+            "label": "14 September 2023"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "המאמי הלאומית"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "המאמי הלאומית!\nמה שהתחיל כחלק מהפודיום - מקבל את הכבוד הראוי לו בפודקאסט נפרד - כיאה לליגה הכי מרגשת, מפתיעה, אותנטית ומוזרה בעולם! \nבכל שבוע, גביזון, ברקוביץ', לפלר ואורחים נוספים יהיו כאן כדי לספר לכם ולבדר אותכם - אודות הליגה הלאומית, זו שקשה איתה, אבל בלתי אפשרי בלעדיה"
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "title": {
+          "label": "המאמי הלאומית - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%9E%D7%90%D7%9E%D7%99-%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA/id1784250421?uo=2",
+          "attributes": {
+            "im:id": "1784250421"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-12T03:17:00-07:00",
+          "attributes": {
+            "label": "12 February 2026"
           }
         }
       },
@@ -1764,30 +1687,104 @@
       },
       {
         "im:name": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "תוכנית הבוקר של eco99fm!טל ברמן, תם אהרון ואביה פרחיכל יום בין 7:00-9:30"
+          "label": "פודקאסט הכדורסל של ynet בשיתוף אולפני bizi podclub: פיני גרשון ואהרל'ה ויסברג מדסקסים על כל מה שחם בעונת היורוליג ההיסטורית של הכדורסל הישראלי, ומלווים מקרוב את משחקי היורוליג של מכבי ת\"א והפועל ת\"א, משחקי נבחרת ישראל והקרבות הגדולים בליגת העל"
+        },
+        "im:artist": {
+          "label": "פיני גרשון ואהרל'ה ויסברג | Be.po"
+        },
+        "title": {
+          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה - פיני גרשון ואהרל'ה ויסברג | Be.po"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2",
+          "attributes": {
+            "im:id": "1849101750"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1529",
+            "term": "Sports News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-sports-news/id1529?uo=2",
+            "label": "Sports News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-08T14:54:00-07:00",
+          "attributes": {
+            "label": "08 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "מילים ביפנית שאין בעברית"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": ".״מילים ביפנית שאין בעברית״ הוא פודקאסט שחושף בפנינו את יפן האמיתית, דרך מילה אחת.  \n\nיושי היגוצ'י ודנה נחום הרמן בוחרים בכל פרק מילה יפנית, שאין לה באמת תרגום לעברית\n\n. דרך המילה אנחנו נחשפים לעולם שלם של אורח חיים, תרבות, היסטוריה, טעמים, צבעים וצלילים. וגם אולי נבין - האם ישראלים ויפנים באמת כל כך שונים?\n\nלטיזרים באינסטגרם לחצו כאן ולצפייה בפרקים ביוטיוב לחצו כאן.\n\nלעוד פודקאסטים של רשת עושים היסטוריה לחצו כאן. "
         },
         "im:price": {
           "label": "Get",
@@ -1803,39 +1800,39 @@
           }
         },
         "rights": {
-          "label": "© 2026 בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+          "label": "© P.I Media"
         },
         "title": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי - eco99fm"
+          "label": "מילים ביפנית שאין בעברית - רשת עושים היסטוריה"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2",
           "attributes": {
-            "im:id": "1687268668"
+            "im:id": "1875673133"
           }
         },
         "im:artist": {
-          "label": "eco99fm"
+          "label": "רשת עושים היסטוריה"
         },
         "category": {
           "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
+            "im:id": "1320",
+            "term": "Places & Travel",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture-places-travel/id1320?uo=2",
+            "label": "Places & Travel"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-11T01:00:00-07:00",
+          "label": "2026-02-08T06:45:00-07:00",
           "attributes": {
-            "label": "11 February 2026"
+            "label": "08 February 2026"
           }
         }
       },
@@ -1918,7 +1915,7 @@
       }
     ],
     "updated": {
-      "label": "2026-02-14T11:18:49-07:00"
+      "label": "2026-02-14T12:18:41-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
