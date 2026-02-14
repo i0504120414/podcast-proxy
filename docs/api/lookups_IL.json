@@ -8,13 +8,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1170818701": {
-      "title": "Lets Talk Murder | בואי נדבר רצח",
-      "author": "שלי וקרן",
-      "feedUrl": "https://feed.podbean.com/letstalkmurder/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/600x600bb.jpg",
-      "itunesId": 1170818701
-    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -78,13 +71,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
       "itunesId": 1572797640
     },
-    "1592443967": {
-      "title": "נכנסים לפינות עם רז ספני ומתן פרץ",
-      "author": "Audioter | אודיותר",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/aeefd022-0ca4-40d1-802c-ad73006283e2/a00c1d1d-190b-4d9d-a061-ad730062dcd0/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/81/b2/ae81b274-11c5-eaaf-6629-ae3eeb75b770/mza_9119264976209783107.jpg/600x600bb.jpg",
-      "itunesId": 1592443967
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -127,13 +113,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
     },
-    "1746467044": {
-      "title": "הסכתוס",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/600x600bb.jpg",
-      "itunesId": 1746467044
-    },
     "1759848794": {
       "title": "קיקטוק",
       "author": "All•in",
@@ -175,6 +154,27 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
       "itunesId": 1849101750
+    },
+    "1870100669": {
+      "title": "אסי ויעל",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
+      "itunesId": 1870100669
+    },
+    "1875673133": {
+      "title": "מילים ביפנית שאין בעברית",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/6778269/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/600x600bb.jpg",
+      "itunesId": 1875673133
+    },
+    "1876312299": {
+      "title": "הפאנל החם",
+      "author": "BOXY",
+      "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
+      "itunesId": 1876312299
     }
   }
 }
