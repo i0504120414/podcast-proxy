@@ -15,13 +15,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1170818701": {
-      "title": "Lets Talk Murder | בואי נדבר רצח",
-      "author": "שלי וקרן",
-      "feedUrl": "https://feed.podbean.com/letstalkmurder/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/600x600bb.jpg",
-      "itunesId": 1170818701
-    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -35,13 +28,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
       "itunesId": 1201883177
-    },
-    "1248230651": {
-      "title": "היסטוריה לילדים History for children",
-      "author": "כאן | Kan",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/d7702e41-7c9d-4afe-bf80-a919008d592b/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/600x600bb.jpg",
-      "itunesId": 1248230651
     },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
@@ -70,13 +56,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
-    },
-    "1526992301": {
-      "title": "לשחרר את הדב",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
-      "itunesId": 1526992301
     },
     "1553686409": {
       "title": "אחד ביום",
@@ -119,6 +98,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
+    },
+    "1649056749": {
+      "title": "הפודקאסט של ליה",
+      "author": "liya noga",
+      "feedUrl": "https://feeds.simplecast.com/yayF11l2",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/e6/06/0ce6063d-ae40-1409-3517-2145b3ddfd5d/mza_14217001522437306495.jpg/600x600bb.jpg",
+      "itunesId": 1649056749
     },
     "1702140601": {
       "title": "פודכספי",
@@ -168,6 +154,20 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
+    },
+    "1870100669": {
+      "title": "אסי ויעל",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
+      "itunesId": 1870100669
+    },
+    "1875673133": {
+      "title": "מילים ביפנית שאין בעברית",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/6778269/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/600x600bb.jpg",
+      "itunesId": 1875673133
     },
     "1876312299": {
       "title": "הפאנל החם",
