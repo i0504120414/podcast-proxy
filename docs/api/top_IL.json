@@ -929,7 +929,30 @@
       },
       {
         "im:name": {
-          "label": "הסכתוס"
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "התשובה הוא הפודקאסט המצליח בישראל שמחבר בין הורים וילדים .\n\nהמנחה, דורון פישלר, נותן תשובות שנונות ומפתיעות לשאלות הקטנות והגדולות, הטפשיות והמחוכמות, המוזרות והמרתקות של החיים, ובפרקים סיפוריים הוא משלב מדע, היסטוריה, תרבות והומור.\n\nלעדכונים לגבי אירועי לייב ועוד הירשמו לעדכונים באתר רשת עושים היסטוריה."
         },
         "im:price": {
           "label": "Get",
@@ -938,66 +961,46 @@
             "currency": "ILS"
           }
         },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "\"הסכתוס\" הוא הסכת הילדים החדש של \"הארץ\". מככבות בו סתיו, שרוצה לעשות פודקאסט על כתמים, אבל התוכניות שלה משתבשות כשאל חייה פולשת נאדה - דמות מוזרה שהמציאה מכשיר ספק פלאי, וביחד השתיים שואלות הרבה שאלות, עונות על מעט מהן ויוצרות את \"הסכתוס!\"\n\nאת הסכתוס יצרו: \n\nסתיו פלטי נגב היא מחזאית ויוצרת תאטרון, מחזותיה עלו בארה\"ב ובישראל. זוכת פרס המחזה בפסטיבל עכו ופרס וודוורד למחזאות בינלאומית.\n\nתמר הוכשטטר היא עורכת ספרי הילדים והנוער בהוצאת עם עובד, סופרת ויוצרת. כלת פרס שרת התרבות על שם דבורה עומר ופרס רמת גן לספרות."
-        },
-        "im:artist": {
-          "label": "הארץ"
-        },
-        "title": {
-          "label": "הסכתוס - הארץ"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A1%D7%9B%D7%AA%D7%95%D7%A1/id1746467044?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A1%D7%9B%D7%AA%D7%95%D7%A1/id1746467044?uo=2",
-          "attributes": {
-            "im:id": "1746467044"
-          }
-        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
+        "rights": {
+          "label": "© Copyright PI Media"
+        },
+        "title": {
+          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2",
+          "attributes": {
+            "im:id": "1441947841"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
         "category": {
           "attributes": {
-            "im:id": "1519",
-            "term": "Education for Kids",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-kids-family-education-for-kids/id1519?uo=2",
-            "label": "Education for Kids"
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
           }
         },
         "im:releaseDate": {
-          "label": "2025-12-21T04:14:00-07:00",
+          "label": "2026-02-03T05:59:00-07:00",
           "attributes": {
-            "label": "21 December 2025"
+            "label": "03 February 2026"
           }
         }
       },
@@ -1073,83 +1076,6 @@
         },
         "im:releaseDate": {
           "label": "2026-02-03T05:00:00-07:00",
-          "attributes": {
-            "label": "03 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "התשובה הוא הפודקאסט המצליח בישראל שמחבר בין הורים וילדים .\n\nהמנחה, דורון פישלר, נותן תשובות שנונות ומפתיעות לשאלות הקטנות והגדולות, הטפשיות והמחוכמות, המוזרות והמרתקות של החיים, ובפרקים סיפוריים הוא משלב מדע, היסטוריה, תרבות והומור.\n\nלעדכונים לגבי אירועי לייב ועוד הירשמו לעדכונים באתר רשת עושים היסטוריה."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright PI Media"
-        },
-        "title": {
-          "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler - רשת עושים היסטוריה"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94-%D7%A2%D7%9D-%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%A9%D7%9C%D7%A8-hatshuva-with-doron-fishler/id1441947841?uo=2",
-          "attributes": {
-            "im:id": "1441947841"
-          }
-        },
-        "im:artist": {
-          "label": "רשת עושים היסטוריה"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-03T05:59:00-07:00",
           "attributes": {
             "label": "03 February 2026"
           }
@@ -1234,6 +1160,80 @@
       },
       {
         "im:name": {
+          "label": "הסכתוס"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "\"הסכתוס\" הוא הסכת הילדים החדש של \"הארץ\". מככבות בו סתיו, שרוצה לעשות פודקאסט על כתמים, אבל התוכניות שלה משתבשות כשאל חייה פולשת נאדה - דמות מוזרה שהמציאה מכשיר ספק פלאי, וביחד השתיים שואלות הרבה שאלות, עונות על מעט מהן ויוצרות את \"הסכתוס!\"\n\nאת הסכתוס יצרו: \n\nסתיו פלטי נגב היא מחזאית ויוצרת תאטרון, מחזותיה עלו בארה\"ב ובישראל. זוכת פרס המחזה בפסטיבל עכו ופרס וודוורד למחזאות בינלאומית.\n\nתמר הוכשטטר היא עורכת ספרי הילדים והנוער בהוצאת עם עובד, סופרת ויוצרת. כלת פרס שרת התרבות על שם דבורה עומר ופרס רמת גן לספרות."
+        },
+        "im:artist": {
+          "label": "הארץ"
+        },
+        "title": {
+          "label": "הסכתוס - הארץ"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A1%D7%9B%D7%AA%D7%95%D7%A1/id1746467044?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A1%D7%9B%D7%AA%D7%95%D7%A1/id1746467044?uo=2",
+          "attributes": {
+            "im:id": "1746467044"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1519",
+            "term": "Education for Kids",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-kids-family-education-for-kids/id1519?uo=2",
+            "label": "Education for Kids"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2025-12-21T04:14:00-07:00",
+          "attributes": {
+            "label": "21 December 2025"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "היסטוריה לילדים History for children"
         },
         "im:image": [
@@ -1306,6 +1306,157 @@
           "label": "2026-02-02T20:00:00-07:00",
           "attributes": {
             "label": "02 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Lets Talk Murder | בואי נדבר רצח"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "יש משהו מרתק במוח המסוגל לרצוח. שלי וקרן נפגשות לשיחות סלון משעשעות בפודקאסט שבועי על רוצחים סדרתיים ופשע אמיתי"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2016  . All rights reserved."
+        },
+        "title": {
+          "label": "Lets Talk Murder | בואי נדבר רצח - שלי וקרן"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/lets-talk-murder-%D7%91%D7%95%D7%90%D7%99-%D7%A0%D7%93%D7%91%D7%A8-%D7%A8%D7%A6%D7%97/id1170818701?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/lets-talk-murder-%D7%91%D7%95%D7%90%D7%99-%D7%A0%D7%93%D7%91%D7%A8-%D7%A8%D7%A6%D7%97/id1170818701?uo=2",
+          "attributes": {
+            "im:id": "1170818701"
+          }
+        },
+        "im:artist": {
+          "label": "שלי וקרן"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1488",
+            "term": "True Crime",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-true-crime/id1488?uo=2",
+            "label": "True Crime"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-01-03T10:48:00-07:00",
+          "attributes": {
+            "label": "03 January 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "פודכספי"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "יצא לכם לשמוע שיר של מתי כספי ולשאול את עצמכם: \"מה עבר לגאון הזה בראש?!\" \n\nאיך זה שכוכב, ברית עולם, לא ידעתי שתלכי ממני, ימי בנימינה, ארץ טרופית יפה, סיבה טובה, מה זאת אהבה - אם נתחיל למנות את כל הקלאסיקות שכספי קשור אליהן ישירות כבר לא יהיה מספיק מקום להסביר על מה בכלל קורה בפודקאסט. \n\n \n\nקבלו את \"פודכספי\", ההסכת החדש של גלי צה\"ל! בהסכת מתי כספי צולל עם ידידו המוזיקאי אוהד בן אבי לסיפורים מאחורי הצלילים - מה הוא אמר כדי לזעזע את גלי עטרי בכוונה? מהי \"שיטת הזרת\", באמצעותה הוא הופך הרמוניות רגילות ל-\"מתי כספיות\", ואיך גורמים ליוסי בנאי, זייפן ידוע שלא ידע לשיר, לבצע את אחד משירי האהבה הגדולים במוזיקה הישראלית?\n\nכל אלה ועוד ב-\"פודכספי\" - שימו אוזן!\n\n \n\nעורך ומגיש: אוהד בן אביראש מחלקת גלצ הסכתים: הדר פרנקנטלעורך מטעם גלצ: ישי חסקיהפקה: נועה ברקאי, ישי חסקיטכנאי סאונד: יהלי שטרוזמןעיצוב גרפי: יובל קופלנדמכין לשידור: שקד משעלתודה מיוחדת מאוד: אור עוזרי, אלון עוזרי\n\nנתראה בפרק הבא של פודכספי!"
+        },
+        "im:artist": {
+          "label": "גלצ"
+        },
+        "title": {
+          "label": "פודכספי - גלצ"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2",
+          "attributes": {
+            "im:id": "1702140601"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1523",
+            "term": "Music Commentary",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-music-music-commentary/id1523?uo=2",
+            "label": "Music Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2023-09-14T04:17:00-07:00",
+          "attributes": {
+            "label": "14 September 2023"
           }
         }
       },
@@ -1465,157 +1616,6 @@
       },
       {
         "im:name": {
-          "label": "Lets Talk Murder | בואי נדבר רצח"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "יש משהו מרתק במוח המסוגל לרצוח. שלי וקרן נפגשות לשיחות סלון משעשעות בפודקאסט שבועי על רוצחים סדרתיים ופשע אמיתי"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright 2016  . All rights reserved."
-        },
-        "title": {
-          "label": "Lets Talk Murder | בואי נדבר רצח - שלי וקרן"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/lets-talk-murder-%D7%91%D7%95%D7%90%D7%99-%D7%A0%D7%93%D7%91%D7%A8-%D7%A8%D7%A6%D7%97/id1170818701?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/lets-talk-murder-%D7%91%D7%95%D7%90%D7%99-%D7%A0%D7%93%D7%91%D7%A8-%D7%A8%D7%A6%D7%97/id1170818701?uo=2",
-          "attributes": {
-            "im:id": "1170818701"
-          }
-        },
-        "im:artist": {
-          "label": "שלי וקרן"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1488",
-            "term": "True Crime",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-true-crime/id1488?uo=2",
-            "label": "True Crime"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-01-03T10:48:00-07:00",
-          "attributes": {
-            "label": "03 January 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "פודכספי"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "יצא לכם לשמוע שיר של מתי כספי ולשאול את עצמכם: \"מה עבר לגאון הזה בראש?!\" \n\nאיך זה שכוכב, ברית עולם, לא ידעתי שתלכי ממני, ימי בנימינה, ארץ טרופית יפה, סיבה טובה, מה זאת אהבה - אם נתחיל למנות את כל הקלאסיקות שכספי קשור אליהן ישירות כבר לא יהיה מספיק מקום להסביר על מה בכלל קורה בפודקאסט. \n\n \n\nקבלו את \"פודכספי\", ההסכת החדש של גלי צה\"ל! בהסכת מתי כספי צולל עם ידידו המוזיקאי אוהד בן אבי לסיפורים מאחורי הצלילים - מה הוא אמר כדי לזעזע את גלי עטרי בכוונה? מהי \"שיטת הזרת\", באמצעותה הוא הופך הרמוניות רגילות ל-\"מתי כספיות\", ואיך גורמים ליוסי בנאי, זייפן ידוע שלא ידע לשיר, לבצע את אחד משירי האהבה הגדולים במוזיקה הישראלית?\n\nכל אלה ועוד ב-\"פודכספי\" - שימו אוזן!\n\n \n\nעורך ומגיש: אוהד בן אביראש מחלקת גלצ הסכתים: הדר פרנקנטלעורך מטעם גלצ: ישי חסקיהפקה: נועה ברקאי, ישי חסקיטכנאי סאונד: יהלי שטרוזמןעיצוב גרפי: יובל קופלנדמכין לשידור: שקד משעלתודה מיוחדת מאוד: אור עוזרי, אלון עוזרי\n\nנתראה בפרק הבא של פודכספי!"
-        },
-        "im:artist": {
-          "label": "גלצ"
-        },
-        "title": {
-          "label": "פודכספי - גלצ"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%93%D7%9B%D7%A1%D7%A4%D7%99/id1702140601?uo=2",
-          "attributes": {
-            "im:id": "1702140601"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1523",
-            "term": "Music Commentary",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-music-music-commentary/id1523?uo=2",
-            "label": "Music Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2023-09-14T04:17:00-07:00",
-          "attributes": {
-            "label": "14 September 2023"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "המאמי הלאומית"
         },
         "im:price": {
@@ -1685,6 +1685,83 @@
           "label": "2026-02-12T03:17:00-07:00",
           "attributes": {
             "label": "12 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "עושים היסטוריה הוא פודקאסט על מדע, טכנולוגיה והיסטוריה.\nרן לוי - מהנדס וסופר - לוקח את המאזינים למסעות מפתיעים אל מאחורי הקלעים של התגליות, הכישלונות והאנשים שהזיזו את העולם.\n\nלעוד פודקאסטים, הרצאות ואירועי לייב בקרו ב״רשת עושים היסטוריה״ והרשמו לניוזלטר. "
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright PI Media"
+        },
+        "title": {
+          "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%9C%D7%95%D7%99-osim-historia-with-ran-levi/id900613182?uo=2",
+          "attributes": {
+            "im:id": "900613182"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1533",
+            "term": "Science",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-science/id1533?uo=2",
+            "label": "Science"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-02T11:05:00-07:00",
+          "attributes": {
+            "label": "02 February 2026"
           }
         }
       },
@@ -1767,7 +1844,30 @@
       },
       {
         "im:name": {
-          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה"
+          "label": "מילים ביפנית שאין בעברית"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": ".״מילים ביפנית שאין בעברית״ הוא פודקאסט שחושף בפנינו את יפן האמיתית, דרך מילה אחת.  \n\nיושי היגוצ'י ודנה נחום הרמן בוחרים בכל פרק מילה יפנית, שאין לה באמת תרגום לעברית\n\n. דרך המילה אנחנו נחשפים לעולם שלם של אורח חיים, תרבות, היסטוריה, טעמים, צבעים וצלילים. וגם אולי נבין - האם ישראלים ויפנים באמת כל כך שונים?\n\nלטיזרים באינסטגרם לחצו כאן ולצפייה בפרקים ביוטיוב לחצו כאן.\n\nלעוד פודקאסטים של רשת עושים היסטוריה לחצו כאן. "
         },
         "im:price": {
           "label": "Get",
@@ -1776,146 +1876,52 @@
             "currency": "ILS"
           }
         },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "פודקאסט הכדורסל של ynet בשיתוף אולפני bizi podclub: פיני גרשון ואהרל'ה ויסברג מדסקסים על כל מה שחם בעונת היורוליג ההיסטורית של הכדורסל הישראלי, ומלווים מקרוב את משחקי היורוליג של מכבי ת\"א והפועל ת\"א, משחקי נבחרת ישראל והקרבות הגדולים בליגת העל"
-        },
-        "im:artist": {
-          "label": "פיני גרשון ואהרל'ה ויסברג | Be.po"
-        },
-        "title": {
-          "label": "MatchUp | הפודקאסט של פיני ואהרל'ה - פיני גרשון ואהרל'ה ויסברג | Be.po"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/matchup-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A4%D7%99%D7%A0%D7%99-%D7%95%D7%90%D7%94%D7%A8%D7%9C%D7%94/id1849101750?uo=2",
-          "attributes": {
-            "im:id": "1849101750"
-          }
-        },
         "im:contentType": {
           "attributes": {
             "term": "Podcast",
             "label": "Podcast"
           }
         },
+        "rights": {
+          "label": "© P.I Media"
+        },
+        "title": {
+          "label": "מילים ביפנית שאין בעברית - רשת עושים היסטוריה"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%99%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A4%D7%A0%D7%99%D7%AA-%D7%A9%D7%90%D7%99%D7%9F-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1875673133?uo=2",
+          "attributes": {
+            "im:id": "1875673133"
+          }
+        },
+        "im:artist": {
+          "label": "רשת עושים היסטוריה"
+        },
         "category": {
           "attributes": {
-            "im:id": "1529",
-            "term": "Sports News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-sports-news/id1529?uo=2",
-            "label": "Sports News"
+            "im:id": "1320",
+            "term": "Places & Travel",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture-places-travel/id1320?uo=2",
+            "label": "Places & Travel"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-08T14:54:00-07:00",
+          "label": "2026-02-08T06:45:00-07:00",
           "attributes": {
             "label": "08 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "אסי ויעל"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "יעל פוליאקוב ואסי עזר, שני טיפוסים מאד מאד שונים זה מזה, נפגשים לדבר ולצחוק על הכל: אהבה, זוגיות, הורות, חרדות ועוד"
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "title": {
-          "label": "אסי ויעל - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%90%D7%A1%D7%99-%D7%95%D7%99%D7%A2%D7%9C/id1870100669?uo=2",
-          "attributes": {
-            "im:id": "1870100669"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-04T02:00:00-07:00",
-          "attributes": {
-            "label": "04 February 2026"
           }
         }
       }
     ],
     "updated": {
-      "label": "2026-02-14T20:15:55-07:00"
+      "label": "2026-02-14T21:51:57-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."

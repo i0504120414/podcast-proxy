@@ -1,6 +1,13 @@
 {
   "success": true,
   "lookups": {
+    "900613182": {
+      "title": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/4227531/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/600x600bb.jpg",
+      "itunesId": 900613182
+    },
     "1076440606": {
       "title": "הפודיום",
       "author": "בית הפודיום",
@@ -155,19 +162,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
     },
-    "1849101750": {
-      "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
-      "author": "פיני גרשון ואהרל'ה ויסברג | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
-      "itunesId": 1849101750
-    },
-    "1870100669": {
-      "title": "אסי ויעל",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
-      "itunesId": 1870100669
+    "1875673133": {
+      "title": "מילים ביפנית שאין בעברית",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/6778269/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a0/21/b2/a021b2b2-56ff-efc7-3800-0995beb5ad2d/mza_15555645916306708889.jpg/600x600bb.jpg",
+      "itunesId": 1875673133
     },
     "1876312299": {
       "title": "הפאנל החם",
