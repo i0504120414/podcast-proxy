@@ -36,13 +36,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
-    "1340384819": {
-      "title": "מנועי הכסף",
-      "author": "כלכליסט",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/8a5aa674-a749-43c7-86c3-b31b00e06274/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
-      "itunesId": 1340384819
-    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -77,6 +70,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
       "itunesId": 1572797640
+    },
+    "1595476982": {
+      "title": "הפודקאסט של נדב פרי",
+      "author": "All•in & Nadav Perry",
+      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
+      "itunesId": 1595476982
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -127,12 +127,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
       "itunesId": 1759848794
     },
-    "1769932803": {
-      "title": "מסיבת הפתעה",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD8469828884",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/5c/68/7e5c689e-33ce-88ad-8a50-40ab24324f62/mza_11896791116194047544.jpg/600x600bb.jpg",
-      "itunesId": 1769932803
+    "1763517669": {
+      "title": "סויסה + 1",
+      "author": "ישראל היום",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/898cc0e3-d14b-4d5b-90b3-b1cf0127996f/fd19ae53-12a5-44cd-9b69-b1cf012812b5/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/a1/9d/e4a19d1f-7862-602c-ecf1-7ea09925eecb/mza_9811903204870523917.jpg/600x600bb.jpg",
+      "itunesId": 1763517669
     },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
