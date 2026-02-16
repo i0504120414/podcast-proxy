@@ -50,6 +50,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
+    "1526992301": {
+      "title": "לשחרר את הדב",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
+      "itunesId": 1526992301
+    },
     "1550747153": {
       "title": "הכותרת",
       "author": "שרון כידון | Be.po",
@@ -78,13 +85,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
       "itunesId": 1595476982
     },
-    "1597632736": {
-      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
-      "itunesId": 1597632736
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -99,6 +99,20 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/600x600bb.jpg",
       "itunesId": 1623315247
     },
+    "1639779705": {
+      "title": "תרגעו",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
+      "itunesId": 1639779705
+    },
+    "1675729649": {
+      "title": "שוט",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD5343938075",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/4a/8e/664a8e2f-5897-24c1-0566-80852de1ece5/mza_2015158183556854730.jpg/600x600bb.jpg",
+      "itunesId": 1675729649
+    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -106,26 +120,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
       "itunesId": 1687268668
     },
-    "1702140601": {
-      "title": "פודכספי",
-      "author": "גלצ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/1006bb12-30a8-45e6-acea-b05b00799001/d1706802-afba-4e92-93bf-b05b007cb1ed/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/600x600bb.jpg",
-      "itunesId": 1702140601
-    },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
       "author": "מיכה סטוקס MICHA.STOCKS",
       "feedUrl": "https://app.kajabi.com/podcasts/2147619382/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
-    },
-    "1739161374": {
-      "title": "TrashTech (טראשטק)",
-      "author": "עמרי ברק ויואב צוקר",
-      "feedUrl": "https://anchor.fm/s/f4876104/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/a6/9a/00a69aaa-fce3-ffb2-4707-308e47ea7868/mza_9630528147610591028.jpg/600x600bb.jpg",
-      "itunesId": 1739161374
     },
     "1759848794": {
       "title": "קיקטוק",
