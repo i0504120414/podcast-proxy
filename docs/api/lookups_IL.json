@@ -36,19 +36,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
       "itunesId": 1201883177
     },
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
+    },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
       "author": "הארץ",
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
-    },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
     },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -64,13 +64,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
-    "1550747153": {
-      "title": "הכותרת",
-      "author": "שרון כידון | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
-      "itunesId": 1550747153
-    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -78,12 +71,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/40/14/7f/40147f80-8870-68d4-20a0-40b1a57b98ce/mza_1843607712595016551.jpg/600x600bb.jpg",
       "itunesId": 1553686409
     },
-    "1553943641": {
-      "title": "המוג׳ו של בן בן ברוך",
-      "author": "בן בן ברוך",
-      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:351419093/sounds.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/69/72/cd69721e-8131-fdb0-b912-ad979c2c6841/mza_5065462337039586986.jpg/600x600bb.jpg",
-      "itunesId": 1553943641
+    "1560225085": {
+      "title": "מפלגת המחשבות",
+      "author": "Beit Avi Chai",
+      "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
+      "itunesId": 1560225085
     },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
@@ -113,6 +106,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
       "itunesId": 1687268668
     },
+    "1702140601": {
+      "title": "פודכספי",
+      "author": "גלצ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/1006bb12-30a8-45e6-acea-b05b00799001/d1706802-afba-4e92-93bf-b05b007cb1ed/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/600x600bb.jpg",
+      "itunesId": 1702140601
+    },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
       "author": "מיכה סטוקס MICHA.STOCKS",
@@ -127,13 +127,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
       "itunesId": 1759848794
     },
-    "1763517669": {
-      "title": "סויסה + 1",
-      "author": "ישראל היום",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/898cc0e3-d14b-4d5b-90b3-b1cf0127996f/fd19ae53-12a5-44cd-9b69-b1cf012812b5/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/a1/9d/e4a19d1f-7862-602c-ecf1-7ea09925eecb/mza_9811903204870523917.jpg/600x600bb.jpg",
-      "itunesId": 1763517669
-    },
     "1769932803": {
       "title": "מסיבת הפתעה",
       "author": "בית הפודיום",
@@ -147,6 +140,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
+    },
+    "1784250421": {
+      "title": "המאמי הלאומית",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
+      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
