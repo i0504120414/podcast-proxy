@@ -15,13 +15,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1170818701": {
-      "title": "Lets Talk Murder | בואי נדבר רצח",
-      "author": "שלי וקרן",
-      "feedUrl": "https://feed.podbean.com/letstalkmurder/feed.xml",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/600x600bb.jpg",
-      "itunesId": 1170818701
-    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -35,13 +28,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
       "itunesId": 1201883177
-    },
-    "1224046559": {
-      "title": "טייכר וזרחוביץ׳",
-      "author": "Radio Tel Aviv",
-      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
-      "itunesId": 1224046559
     },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
@@ -64,6 +50,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
+    "1550747153": {
+      "title": "הכותרת",
+      "author": "שרון כידון | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
+      "itunesId": 1550747153
+    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -84,6 +77,13 @@
       "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
       "itunesId": 1595476982
+    },
+    "1597632736": {
+      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
+      "itunesId": 1597632736
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -120,19 +120,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
     },
+    "1739161374": {
+      "title": "TrashTech (טראשטק)",
+      "author": "עמרי ברק ויואב צוקר",
+      "feedUrl": "https://anchor.fm/s/f4876104/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/a6/9a/00a69aaa-fce3-ffb2-4707-308e47ea7868/mza_9630528147610591028.jpg/600x600bb.jpg",
+      "itunesId": 1739161374
+    },
     "1759848794": {
       "title": "קיקטוק",
       "author": "All•in",
       "feedUrl": "https://anchor.fm/s/10ea649d8/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
       "itunesId": 1759848794
-    },
-    "1769932803": {
-      "title": "מסיבת הפתעה",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD8469828884",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/5c/68/7e5c689e-33ce-88ad-8a50-40ab24324f62/mza_11896791116194047544.jpg/600x600bb.jpg",
-      "itunesId": 1769932803
     },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
