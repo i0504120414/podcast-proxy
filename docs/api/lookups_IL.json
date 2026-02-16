@@ -15,6 +15,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
+    "1170818701": {
+      "title": "Lets Talk Murder | בואי נדבר רצח",
+      "author": "שלי וקרן",
+      "feedUrl": "https://feed.podbean.com/letstalkmurder/feed.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/10/58/5f1058d3-0dff-b43a-326c-1df089de6305/mza_7227708182279651741.jpg/600x600bb.jpg",
+      "itunesId": 1170818701
+    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -36,6 +43,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
+    "1441247448": {
+      "title": "האינטרסנטים",
+      "author": "TheMarker",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
+      "itunesId": 1441247448
+    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -50,6 +64,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
+    "1550747153": {
+      "title": "הכותרת",
+      "author": "שרון כידון | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
+      "itunesId": 1550747153
+    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -57,19 +78,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/40/14/7f/40147f80-8870-68d4-20a0-40b1a57b98ce/mza_1843607712595016551.jpg/600x600bb.jpg",
       "itunesId": 1553686409
     },
-    "1560225085": {
-      "title": "מפלגת המחשבות",
-      "author": "Beit Avi Chai",
-      "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
-      "itunesId": 1560225085
-    },
-    "1572797640": {
-      "title": "חוץ לארץ",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
-      "itunesId": 1572797640
+    "1553943641": {
+      "title": "המוג׳ו של בן בן ברוך",
+      "author": "בן בן ברוך",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:351419093/sounds.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/69/72/cd69721e-8131-fdb0-b912-ad979c2c6841/mza_5065462337039586986.jpg/600x600bb.jpg",
+      "itunesId": 1553943641
     },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
@@ -92,26 +106,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/600x600bb.jpg",
       "itunesId": 1623315247
     },
-    "1639779705": {
-      "title": "תרגעו",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
-      "itunesId": 1639779705
-    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
       "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
       "itunesId": 1687268668
-    },
-    "1702140601": {
-      "title": "פודכספי",
-      "author": "גלצ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/1006bb12-30a8-45e6-acea-b05b00799001/d1706802-afba-4e92-93bf-b05b007cb1ed/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/29/6c/47/296c47ab-785f-93f1-81b4-886fc60f4fbb/mza_9094128796279117641.jpg/600x600bb.jpg",
-      "itunesId": 1702140601
     },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
@@ -134,19 +134,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/a1/9d/e4a19d1f-7862-602c-ecf1-7ea09925eecb/mza_9811903204870523917.jpg/600x600bb.jpg",
       "itunesId": 1763517669
     },
+    "1769932803": {
+      "title": "מסיבת הפתעה",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD8469828884",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/5c/68/7e5c689e-33ce-88ad-8a50-40ab24324f62/mza_11896791116194047544.jpg/600x600bb.jpg",
+      "itunesId": 1769932803
+    },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
       "author": "בית הפודיום",
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
-    },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
