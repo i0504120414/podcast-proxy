@@ -43,13 +43,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
       "itunesId": 1441247448
     },
-    "1441947841": {
-      "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/4228834/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/600x600bb.jpg",
-      "itunesId": 1441947841
-    },
     "1519225032": {
       "title": "בזמן שעבדתם",
       "author": "mako מאקו",
@@ -63,6 +56,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
       "itunesId": 1526992301
+    },
+    "1550747153": {
+      "title": "הכותרת",
+      "author": "שרון כידון | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
+      "itunesId": 1550747153
     },
     "1553686409": {
       "title": "אחד ביום",
@@ -105,13 +105,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
-    },
-    "1675729649": {
-      "title": "שוט",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD5343938075",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/4a/8e/664a8e2f-5897-24c1-0566-80852de1ece5/mza_2015158183556854730.jpg/600x600bb.jpg",
-      "itunesId": 1675729649
     },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
@@ -162,19 +155,26 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
     },
-    "1849101750": {
-      "title": "MatchUp | הפודקאסט של פיני ואהרל'ה",
-      "author": "פיני גרשון ואהרל'ה ויסברג | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/750ab2dc-5e1d-4c00-9eb7-b38400800185/08a2d664-f618-4553-b44c-b38400800589/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3b/72/0c/3b720c87-32dd-05c6-9aba-88121555f45b/mza_5131166623900219533.jpg/600x600bb.jpg",
-      "itunesId": 1849101750
-    },
     "1870100669": {
       "title": "אסי ויעל",
       "author": "בית הפודיום",
       "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
       "itunesId": 1870100669
+    },
+    "1877655712": {
+      "title": "ריקאפ - יריבות לוהטת | מיכאלה חזני ואיתי בן שמחון",
+      "author": "mims | פשוט לעשות פודקאסט",
+      "feedUrl": "https://anchor.fm/s/10f23abe4/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/91/91/829191d9-622a-1f08-d4b9-dec0ea6ff17c/mza_3798740342458180444.jpg/600x600bb.jpg",
+      "itunesId": 1877655712
+    },
+    "1877656600": {
+      "title": "יעל ויהודית",
+      "author": "BOXY",
+      "feedUrl": "https://feeds.transistor.fm/1b6f4c38-cd46-440b-a823-4b048ab91ea7",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/b0/b1/96b0b1ec-6a48-a4f3-d382-ad35235f54cd/mza_17401187140216198023.jpg/600x600bb.jpg",
+      "itunesId": 1877656600
     }
   }
 }
