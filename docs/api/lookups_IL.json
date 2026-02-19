@@ -15,13 +15,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1120184157": {
-      "title": "ציון 3",
-      "author": "יונתן נמרודי וראם שרמן",
-      "feedUrl": "http://tziun3.co.il/?feed=podcast",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/16/27/eb1627ba-ae4d-4a9c-5694-681e7fcb1641/mza_850072062510866468.jpg/600x600bb.jpg",
-      "itunesId": 1120184157
-    },
     "1198989209": {
       "title": "חיות כיס Hayot Kiss",
       "author": "כאן | Kan",
@@ -35,13 +28,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
       "itunesId": 1201883177
-    },
-    "1224046559": {
-      "title": "טייכר וזרחוביץ׳",
-      "author": "Radio Tel Aviv",
-      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
-      "itunesId": 1224046559
     },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
@@ -84,6 +70,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1597632736": {
+      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
+      "itunesId": 1597632736
     },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
@@ -175,6 +168,13 @@
       "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
       "itunesId": 1876312299
+    },
+    "1877656600": {
+      "title": "יעל ויהודית",
+      "author": "BOXY",
+      "feedUrl": "https://feeds.transistor.fm/1b6f4c38-cd46-440b-a823-4b048ab91ea7",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/b0/b1/96b0b1ec-6a48-a4f3-d382-ad35235f54cd/mza_17401187140216198023.jpg/600x600bb.jpg",
+      "itunesId": 1877656600
     }
   }
 }
