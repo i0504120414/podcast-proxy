@@ -85,13 +85,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
     },
-    "1597632736": {
-      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
-      "itunesId": 1597632736
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -169,12 +162,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
       "itunesId": 1870100669
     },
-    "1877656600": {
-      "title": "יעל ויהודית",
+    "1872453291": {
+      "title": "לא להמציא",
+      "author": "All•in",
+      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
+      "itunesId": 1872453291
+    },
+    "1876312299": {
+      "title": "הפאנל החם",
       "author": "BOXY",
-      "feedUrl": "https://feeds.transistor.fm/1b6f4c38-cd46-440b-a823-4b048ab91ea7",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/b0/b1/96b0b1ec-6a48-a4f3-d382-ad35235f54cd/mza_17401187140216198023.jpg/600x600bb.jpg",
-      "itunesId": 1877656600
+      "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
+      "itunesId": 1876312299
     }
   }
 }
