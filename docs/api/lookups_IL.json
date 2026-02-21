@@ -141,6 +141,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
     },
+    "1746467044": {
+      "title": "הסכתוס",
+      "author": "הארץ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/600x600bb.jpg",
+      "itunesId": 1746467044
+    },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
       "author": "בית הפודיום",
@@ -168,13 +175,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
       "itunesId": 1870100669
-    },
-    "1872453291": {
-      "title": "לא להמציא",
-      "author": "All•in",
-      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
-      "itunesId": 1872453291
     }
   }
 }
