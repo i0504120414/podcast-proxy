@@ -50,12 +50,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
       "itunesId": 1340384819
     },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
+    "1441947841": {
+      "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
+      "author": "רשת עושים היסטוריה",
+      "feedUrl": "https://www.spreaker.com/show/4228834/episodes/feed",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/600x600bb.jpg",
+      "itunesId": 1441947841
     },
     "1519225032": {
       "title": "בזמן שעבדתם",
@@ -77,6 +77,13 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
+    },
+    "1572797640": {
+      "title": "חוץ לארץ",
+      "author": "הארץ",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
+      "itunesId": 1572797640
     },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
@@ -133,13 +140,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
-    },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
