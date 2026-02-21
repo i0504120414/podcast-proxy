@@ -78,13 +78,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
     },
-    "1572797640": {
-      "title": "חוץ לארץ",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
-      "itunesId": 1572797640
-    },
     "1595476982": {
       "title": "הפודקאסט של נדב פרי",
       "author": "All•in & Nadav Perry",
@@ -140,6 +133,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
+    },
+    "1784250421": {
+      "title": "המאמי הלאומית",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
+      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
