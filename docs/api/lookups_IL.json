@@ -99,13 +99,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
       "itunesId": 1572797640
     },
-    "1595476982": {
-      "title": "הפודקאסט של נדב פרי",
-      "author": "All•in & Nadav Perry",
-      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
-      "itunesId": 1595476982
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -175,6 +168,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
       "itunesId": 1870100669
+    },
+    "1872453291": {
+      "title": "לא להמציא",
+      "author": "All•in",
+      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
+      "itunesId": 1872453291
     }
   }
 }
