@@ -308,9 +308,9 @@
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-11T02:07:00-07:00",
+          "label": "2026-02-18T01:55:00-07:00",
           "attributes": {
-            "label": "11 February 2026"
+            "label": "18 February 2026"
           }
         }
       },
@@ -1924,7 +1924,7 @@
       }
     ],
     "updated": {
-      "label": "2026-02-22T01:24:32-07:00"
+      "label": "2026-02-22T02:18:24-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
