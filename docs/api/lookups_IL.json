@@ -36,13 +36,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
       "itunesId": 1201883177
     },
-    "1248230651": {
-      "title": "היסטוריה לילדים History for children",
-      "author": "כאן | Kan",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/d7702e41-7c9d-4afe-bf80-a919008d592b/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/600x600bb.jpg",
-      "itunesId": 1248230651
-    },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
       "author": "הארץ",
@@ -92,19 +85,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
     },
-    "1572797640": {
-      "title": "חוץ לארץ",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/6b5c19f7-a385-49c0-bb95-ad4a0071daea/08535d76-8bf4-4bf2-af8d-ad4a007205a3/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5b/53/2b/5b532b11-01f6-8907-9567-74dee5900e85/mza_5697786007577311141.jpg/600x600bb.jpg",
-      "itunesId": 1572797640
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
       "feedUrl": "https://anchor.fm/s/ef1f5500/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/43/24/05/432405e8-475e-9bcd-645a-2eff84ae7767/mza_10621112407198752165.png/600x600bb.jpg",
       "itunesId": 1608693224
+    },
+    "1618776201": {
+      "title": "ONE Podcasts - מכבי ת\"א",
+      "author": "ONE PODCASTS",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/ae6ed7c5-9419-4a64-8b67-ae6e00cf868a/28b20abd-bcea-4f64-b948-ae7400daa4b8/9b9bec0e-f1aa-4686-94d8-ae7400db13d5/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/ec/5c/abec5ce6-a0f9-44cf-a3a2-eff78cd39a14/mza_1484331453550158614.jpg/600x600bb.jpg",
+      "itunesId": 1618776201
     },
     "1623315247": {
       "title": "פודקאסט רצח",
@@ -120,26 +113,12 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
-    "1687268668": {
-      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
-      "author": "eco99fm",
-      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
-      "itunesId": 1687268668
-    },
     "1707589009": {
       "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
       "author": "מיכה סטוקס MICHA.STOCKS",
       "feedUrl": "https://app.kajabi.com/podcasts/2147619382/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
-    },
-    "1746467044": {
-      "title": "הסכתוס",
-      "author": "הארץ",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/600x600bb.jpg",
-      "itunesId": 1746467044
     },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
@@ -162,12 +141,33 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/d2/7e/f0d27ea3-e55f-9b19-4618-238fc8706e0f/mza_7321249760078922115.jpg/600x600bb.jpg",
       "itunesId": 1800224338
     },
+    "1801581772": {
+      "title": "הענק הירוק",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD5810383369",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/88/e1/f788e146-0d8f-97f8-0007-c73e86ceab40/mza_10086895667215671463.jpg/600x600bb.jpg",
+      "itunesId": 1801581772
+    },
     "1823006955": {
       "title": "פודקאסט שולחן 4",
       "author": "Table4",
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
+    },
+    "1836414700": {
+      "title": "הקורבה פוד - The Curva Pod",
+      "author": "Itai Elizur, Guy Shahar, Yaacov Lipschitz",
+      "feedUrl": "https://anchor.fm/s/108c95a00/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/21/7c/bc217ccd-894d-6bb5-dfe2-85a21c1b1b0d/mza_6061812872070010355.jpg/600x600bb.jpg",
+      "itunesId": 1836414700
+    },
+    "1870100669": {
+      "title": "אסי ויעל",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
+      "itunesId": 1870100669
     },
     "1872453291": {
       "title": "לא להמציא",
