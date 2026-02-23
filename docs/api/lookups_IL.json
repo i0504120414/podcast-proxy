@@ -50,13 +50,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
-    "1441947841": {
-      "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/4228834/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/600x600bb.jpg",
-      "itunesId": 1441947841
-    },
     "1519225032": {
       "title": "בזמן שעבדתם",
       "author": "mako מאקו",
@@ -70,6 +63,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/409bad89-c4c2-46cb-b69b-accf01152781/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/40/14/7f/40147f80-8870-68d4-20a0-40b1a57b98ce/mza_1843607712595016551.jpg/600x600bb.jpg",
       "itunesId": 1553686409
+    },
+    "1553943641": {
+      "title": "המוג׳ו של בן בן ברוך",
+      "author": "בן בן ברוך",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:351419093/sounds.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/69/72/cd69721e-8131-fdb0-b912-ad979c2c6841/mza_5065462337039586986.jpg/600x600bb.jpg",
+      "itunesId": 1553943641
     },
     "1560225085": {
       "title": "מפלגת המחשבות",
@@ -141,19 +141,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
       "itunesId": 1759848794
     },
+    "1769932803": {
+      "title": "מסיבת הפתעה",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD8469828884",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/5c/68/7e5c689e-33ce-88ad-8a50-40ab24324f62/mza_11896791116194047544.jpg/600x600bb.jpg",
+      "itunesId": 1769932803
+    },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
       "author": "בית הפודיום",
       "feedUrl": "https://feeds.megaphone.fm/POLTD2316968013",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
-    },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
     },
     "1800224338": {
       "title": "למי אכפת",
