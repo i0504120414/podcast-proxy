@@ -106,13 +106,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
-    "1678562730": {
-      "title": "פשוט AI",
-      "author": "Benny Farber",
-      "feedUrl": "https://anchor.fm/s/dd127d10/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7c/56/5c/7c565c36-98cc-390b-b9f3-e61ce038641b/mza_6242471151528778909.jpg/600x600bb.jpg",
-      "itunesId": 1678562730
-    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -161,6 +154,13 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
+    },
+    "1870100669": {
+      "title": "אסי ויעל",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4386746111",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/28/94/c92894fe-34ab-bf15-e914-f8393d279fb2/mza_13803745800469132374.jpg/600x600bb.jpg",
+      "itunesId": 1870100669
     },
     "1872453291": {
       "title": "לא להמציא",
