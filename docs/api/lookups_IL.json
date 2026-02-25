@@ -78,13 +78,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
     },
-    "1595476982": {
-      "title": "הפודקאסט של נדב פרי",
-      "author": "All•in & Nadav Perry",
-      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
-      "itunesId": 1595476982
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -168,6 +161,13 @@
       "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
       "itunesId": 1872453291
+    },
+    "1876312299": {
+      "title": "הפאנל החם",
+      "author": "BOXY",
+      "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
+      "itunesId": 1876312299
     },
     "1879286856": {
       "title": "חכמים גדולים",
