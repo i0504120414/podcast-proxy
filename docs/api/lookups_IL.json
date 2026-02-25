@@ -8,6 +8,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/1b/d1/db1bd12d-6ca4-6483-39c8-567644eb5249/mza_8455445882927862521.jpg/600x600bb.jpg",
       "itunesId": 900613182
     },
+    "1019124387": {
+      "title": "גיקונומי",
+      "author": "ראם שרמן ודורון ניר",
+      "feedUrl": "https://feed.podbean.com/geekonomy/feed.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/20/a5/ba/20a5ba27-76cf-1723-c152-c1bad503295a/mza_8981528332580889852.jpg/600x600bb.jpg",
+      "itunesId": 1019124387
+    },
     "1076440606": {
       "title": "הפודיום",
       "author": "בית הפודיום",
@@ -21,6 +28,13 @@
       "feedUrl": "https://www.spreaker.com/show/4221239/episodes/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/ad/77/ebad773f-c91d-945b-d87c-ecdbf8a72f78/mza_6554747791574965020.jpg/600x600bb.jpg",
       "itunesId": 1151970998
+    },
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
     },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
@@ -43,6 +57,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
+    "1526992301": {
+      "title": "לשחרר את הדב",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
+      "itunesId": 1526992301
+    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -57,19 +78,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
     },
+    "1595476982": {
+      "title": "הפודקאסט של נדב פרי",
+      "author": "All•in & Nadav Perry",
+      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
+      "itunesId": 1595476982
+    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
       "feedUrl": "https://anchor.fm/s/ef1f5500/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/43/24/05/432405e8-475e-9bcd-645a-2eff84ae7767/mza_10621112407198752165.png/600x600bb.jpg",
       "itunesId": 1608693224
-    },
-    "1620755536": {
-      "title": "ONE Podcasts - בית\"ר ירושלים",
-      "author": "ONE PODCASTS",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/ae6ed7c5-9419-4a64-8b67-ae6e00cf868a/3bdda15f-ad8b-4919-afa9-ae7600d2685d/7c608498-aa76-4afe-b2f6-ae7600d2c1b8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/2a/bd/ad2abd28-36cf-8022-e309-84ff1654983b/mza_17317629156725686756.jpg/600x600bb.jpg",
-      "itunesId": 1620755536
     },
     "1623315247": {
       "title": "פודקאסט רצח",
@@ -84,13 +105,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
-    },
-    "1662095690": {
-      "title": "מפת החום - גיא נתן",
-      "author": "Guy Natan",
-      "feedUrl": "https://anchor.fm/s/f31a6d48/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/8b/a7/e58ba77e-64ab-090d-bad6-27517b2e7cb9/mza_14994598671200647225.jpg/600x600bb.jpg",
-      "itunesId": 1662095690
     },
     "1678562730": {
       "title": "פשוט AI",
@@ -127,13 +141,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
     },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
-    },
     "1800224338": {
       "title": "למי אכפת",
       "author": "בית הפודיום",
@@ -161,13 +168,6 @@
       "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
       "itunesId": 1872453291
-    },
-    "1876312299": {
-      "title": "הפאנל החם",
-      "author": "BOXY",
-      "feedUrl": "https://feeds.transistor.fm/90e41913-bba1-4c29-aa21-34a42681d0be",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/e1/05/3de1053d-30bc-f3c7-9c49-03b0dbc6e848/mza_5354205772981015313.jpg/600x600bb.jpg",
-      "itunesId": 1876312299
     },
     "1879286856": {
       "title": "חכמים גדולים",
