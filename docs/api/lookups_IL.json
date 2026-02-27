@@ -1,6 +1,13 @@
 {
   "success": true,
   "lookups": {
+    "1019124387": {
+      "title": "גיקונומי",
+      "author": "ראם שרמן ודורון ניר",
+      "feedUrl": "https://feed.podbean.com/geekonomy/feed.xml",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/20/a5/ba/20a5ba27-76cf-1723-c152-c1bad503295a/mza_8981528332580889852.jpg/600x600bb.jpg",
+      "itunesId": 1019124387
+    },
     "1076440606": {
       "title": "הפודיום",
       "author": "בית הפודיום",
@@ -28,6 +35,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
+    },
+    "1340384819": {
+      "title": "מנועי הכסף",
+      "author": "כלכליסט",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/8a5aa674-a749-43c7-86c3-b31b00e06274/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
+      "itunesId": 1340384819
     },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
@@ -92,13 +106,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
-    "1678562730": {
-      "title": "פשוט AI",
-      "author": "Benny Farber",
-      "feedUrl": "https://anchor.fm/s/dd127d10/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7c/56/5c/7c565c36-98cc-390b-b9f3-e61ce038641b/mza_6242471151528778909.jpg/600x600bb.jpg",
-      "itunesId": 1678562730
-    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -154,13 +161,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/47693779-6156-4a86-90a2-b3a2007c8adf/2470714a-7e62-4e8a-861d-b3a2007c96b1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/600x600bb.jpg",
       "itunesId": 1859419744
-    },
-    "1872453291": {
-      "title": "לא להמציא",
-      "author": "All•in",
-      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
-      "itunesId": 1872453291
     },
     "1876312299": {
       "title": "הפאנל החם",
