@@ -22,13 +22,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/ad/77/ebad773f-c91d-945b-d87c-ecdbf8a72f78/mza_6554747791574965020.jpg/600x600bb.jpg",
       "itunesId": 1151970998
     },
-    "1198989209": {
-      "title": "חיות כיס Hayot Kiss",
-      "author": "כאן | Kan",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/600x600bb.jpg",
-      "itunesId": 1198989209
-    },
     "1201883177": {
       "title": "שיר אחד One Song",
       "author": "כאן | Kan",
@@ -70,6 +63,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
       "itunesId": 1526992301
+    },
+    "1539292794": {
+      "title": "Call Me Back - with Dan Senor",
+      "author": "Ark Media, Ilan Benatar",
+      "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+      "itunesId": 1539292794
     },
     "1553686409": {
       "title": "אחד ביום",
@@ -120,13 +120,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
-    "1687268668": {
-      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
-      "author": "eco99fm",
-      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
-      "itunesId": 1687268668
-    },
     "1746467044": {
       "title": "הסכתוס",
       "author": "הארץ",
@@ -161,6 +154,13 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
+    },
+    "1836414700": {
+      "title": "הקורבה פוד - The Curva Pod",
+      "author": "Itai Elizur, Guy Shahar, Yaacov Lipschitz",
+      "feedUrl": "https://anchor.fm/s/108c95a00/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/21/7c/bc217ccd-894d-6bb5-dfe2-85a21c1b1b0d/mza_6061812872070010355.jpg/600x600bb.jpg",
+      "itunesId": 1836414700
     },
     "1859419744": {
       "title": "פאסיב אגרסיב",
