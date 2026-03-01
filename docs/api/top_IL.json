@@ -239,83 +239,6 @@
       },
       {
         "im:name": {
-          "label": "בזמן שעבדתם"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 makopod"
-        },
-        "title": {
-          "label": "בזמן שעבדתם - mako מאקו"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
-          "attributes": {
-            "im:id": "1519225032"
-          }
-        },
-        "im:artist": {
-          "label": "mako מאקו"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1528",
-            "term": "Tech News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
-            "label": "Tech News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-18T01:55:00-07:00",
-          "attributes": {
-            "label": "18 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
         },
         "im:image": [
@@ -388,6 +311,83 @@
           "label": "2026-02-24T06:11:00-07:00",
           "attributes": {
             "label": "24 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "בזמן שעבדתם"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "מבית קשת, mako ו-N12: דני פלד, שותף מנהל בקרן Stardom ודרור גלוברמן, מגיש תכנית הטלויזיה next של קשת 12, מדברים על כל חדשות המדיה והדיגיטל שאולי פספסתם בזמן שעבדתם. כך תשארו עם אצבע על הדופק, גם אם לא הספקתם לקרוא את כל הכותרות שישפיעו על החיים של כולנו."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 makopod"
+        },
+        "title": {
+          "label": "בזמן שעבדתם - mako מאקו"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%96%D7%9E%D7%9F-%D7%A9%D7%A2%D7%91%D7%93%D7%AA%D7%9D/id1519225032?uo=2",
+          "attributes": {
+            "im:id": "1519225032"
+          }
+        },
+        "im:artist": {
+          "label": "mako מאקו"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1528",
+            "term": "Tech News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-tech-news/id1528?uo=2",
+            "label": "Tech News"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-18T01:55:00-07:00",
+          "attributes": {
+            "label": "18 February 2026"
           }
         }
       },
@@ -1006,83 +1006,6 @@
       },
       {
         "im:name": {
-          "label": "מפלגת המחשבות"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "נדמה שלא משנה בכמה מהדורות חדשות נצפה וכמה ויכוחים פוליטיים ננהל, משהו מהותי עדיין יחמוק מאיתנו: מהם הרעיונות הגדולים שמניעים את נבחרי הציבור, את היריבים הפוליטיים שלנו ואותנו? איך המחלוקות של ימינו קשורות לדיונים הסוערים שהתנהלו לפני אלפי שנים באקדמיה האפלטונית, במנזרים הטאואיסטיים ובבתי המדרש היהודיים?\nבמפלגת המחשבות ד״ר מיכה גודמן ואפרת שפירא רוזנברג עושים זום-אווט מאירועי השעה, ומנתחים את הפוליטיקה הישראלית בעזרת התיאוריות של גדולי הפילוסופים וההוגים. עם מיליוני האזנות וקהילת מאזינים מעורבת, ההסכת מוכיח שוב ושוב שכשחושבים על זה לעומק, אין באמת דבר כזה פוליטיקה קטנה.רוצים לחשוב ולכתוב על הרעיונות של מפלגת? הצטרפו לקהילת הפייסבוק שלנו  >> "
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 מפלגת המחשבות"
-        },
-        "title": {
-          "label": "מפלגת המחשבות - Beit Avi Chai"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2",
-          "attributes": {
-            "im:id": "1560225085"
-          }
-        },
-        "im:artist": {
-          "label": "Beit Avi Chai"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1527",
-            "term": "Politics",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
-            "label": "Politics"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-23T23:00:00-07:00",
-          "attributes": {
-            "label": "23 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "עושים היסטוריה עם רן לוי Osim Historia With Ran Levi"
         },
         "im:image": [
@@ -1160,30 +1083,30 @@
       },
       {
         "im:name": {
-          "label": "היסטוריה לילדים History for children"
+          "label": "מפלגת המחשבות"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "סיפורן של דמויות מרתקות בהיסטוריה האנושית ובהיסטוריה היהודית-ישראלית. נשמע על ממציאים, מתקני עולם, מנהיגים שתרמו לחברה האנושית, מצביאים מפורסמים ואמנים גדולים. הפרקים בסדרה יספרו על עולמנו וגם על עולמם של אחרים. הם יאפשרו לנו להבין את המניעים והסיבות שמאחורי אירועים היסטוריים, ללמוד כיצד התמודדו אחרים עם אתגרים וקשיים אדירים ולהתוודע לתקופות ותרבויות אחרות. עם יובל מלחי"
+          "label": "נדמה שלא משנה בכמה מהדורות חדשות נצפה וכמה ויכוחים פוליטיים ננהל, משהו מהותי עדיין יחמוק מאיתנו: מהם הרעיונות הגדולים שמניעים את נבחרי הציבור, את היריבים הפוליטיים שלנו ואותנו? איך המחלוקות של ימינו קשורות לדיונים הסוערים שהתנהלו לפני אלפי שנים באקדמיה האפלטונית, במנזרים הטאואיסטיים ובבתי המדרש היהודיים?\nבמפלגת המחשבות ד״ר מיכה גודמן ואפרת שפירא רוזנברג עושים זום-אווט מאירועי השעה, ומנתחים את הפוליטיקה הישראלית בעזרת התיאוריות של גדולי הפילוסופים וההוגים. עם מיליוני האזנות וקהילת מאזינים מעורבת, ההסכת מוכיח שוב ושוב שכשחושבים על זה לעומק, אין באמת דבר כזה פוליטיקה קטנה.רוצים לחשוב ולכתוב על הרעיונות של מפלגת? הצטרפו לקהילת הפייסבוק שלנו  >> "
         },
         "im:price": {
           "label": "Get",
@@ -1199,37 +1122,37 @@
           }
         },
         "rights": {
-          "label": "© 2026 כאן"
+          "label": "© 2026 מפלגת המחשבות"
         },
         "title": {
-          "label": "היסטוריה לילדים History for children - כאן | Kan"
+          "label": "מפלגת המחשבות - Beit Avi Chai"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D-history-for-children/id1248230651?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D-history-for-children/id1248230651?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A4%D7%9C%D7%92%D7%AA-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA/id1560225085?uo=2",
           "attributes": {
-            "im:id": "1248230651"
+            "im:id": "1560225085"
           }
         },
         "im:artist": {
-          "label": "כאן | Kan"
+          "label": "Beit Avi Chai"
         },
         "category": {
           "attributes": {
-            "im:id": "1304",
-            "term": "Education",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-education/id1304?uo=2",
-            "label": "Education"
+            "im:id": "1527",
+            "term": "Politics",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-politics/id1527?uo=2",
+            "label": "Politics"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-23T20:00:00-07:00",
+          "label": "2026-02-23T23:00:00-07:00",
           "attributes": {
             "label": "23 February 2026"
           }
@@ -1314,6 +1237,83 @@
       },
       {
         "im:name": {
+          "label": "היסטוריה לילדים History for children"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "סיפורן של דמויות מרתקות בהיסטוריה האנושית ובהיסטוריה היהודית-ישראלית. נשמע על ממציאים, מתקני עולם, מנהיגים שתרמו לחברה האנושית, מצביאים מפורסמים ואמנים גדולים. הפרקים בסדרה יספרו על עולמנו וגם על עולמם של אחרים. הם יאפשרו לנו להבין את המניעים והסיבות שמאחורי אירועים היסטוריים, ללמוד כיצד התמודדו אחרים עם אתגרים וקשיים אדירים ולהתוודע לתקופות ותרבויות אחרות. עם יובל מלחי"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 כאן"
+        },
+        "title": {
+          "label": "היסטוריה לילדים History for children - כאן | Kan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D-history-for-children/id1248230651?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D-history-for-children/id1248230651?uo=2",
+          "attributes": {
+            "im:id": "1248230651"
+          }
+        },
+        "im:artist": {
+          "label": "כאן | Kan"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1304",
+            "term": "Education",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-education/id1304?uo=2",
+            "label": "Education"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-23T20:00:00-07:00",
+          "attributes": {
+            "label": "23 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "שיר אחד One Song"
         },
         "im:image": [
@@ -1391,157 +1391,6 @@
       },
       {
         "im:name": {
-          "label": "פאסיב אגרסיב"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "אלונה סער וטליה ברטפלד, מומחיות מטעם עצמן, בסשן עצות מצחיק, כנה והכי חשוף שיש  - לשאלות שבטוח לא תלמדו בבית הספר"
-        },
-        "im:artist": {
-          "label": "אלונה סער וטליה ברטפלד | Be.po"
-        },
-        "title": {
-          "label": "פאסיב אגרסיב - אלונה סער וטליה ברטפלד | Be.po"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2",
-          "attributes": {
-            "im:id": "1859419744"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1405",
-            "term": "Performing Arts",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts-performing-arts/id1405?uo=2",
-            "label": "Performing Arts"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-16T19:00:00-07:00",
-          "attributes": {
-            "label": "16 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "תוכנית הבוקר של eco99fm!טל ברמן, תם אהרון ואביה פרחיכל יום בין 7:00-9:30"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
-        },
-        "title": {
-          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי - eco99fm"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2",
-          "attributes": {
-            "im:id": "1687268668"
-          }
-        },
-        "im:artist": {
-          "label": "eco99fm"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1303",
-            "term": "Comedy",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
-            "label": "Comedy"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-24T23:00:00-07:00",
-          "attributes": {
-            "label": "24 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "לשחרר את הדב"
         },
         "im:image": [
@@ -1614,6 +1463,80 @@
           "label": "2026-02-24T20:00:00-07:00",
           "attributes": {
             "label": "24 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "פאסיב אגרסיב"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "אלונה סער וטליה ברטפלד, מומחיות מטעם עצמן, בסשן עצות מצחיק, כנה והכי חשוף שיש  - לשאלות שבטוח לא תלמדו בבית הספר"
+        },
+        "im:artist": {
+          "label": "אלונה סער וטליה ברטפלד | Be.po"
+        },
+        "title": {
+          "label": "פאסיב אגרסיב - אלונה סער וטליה ברטפלד | Be.po"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A4%D7%90%D7%A1%D7%99%D7%91-%D7%90%D7%92%D7%A8%D7%A1%D7%99%D7%91/id1859419744?uo=2",
+          "attributes": {
+            "im:id": "1859419744"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1405",
+            "term": "Performing Arts",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-arts-performing-arts/id1405?uo=2",
+            "label": "Performing Arts"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-16T19:00:00-07:00",
+          "attributes": {
+            "label": "16 February 2026"
           }
         }
       },
@@ -1773,6 +1696,83 @@
       },
       {
         "im:name": {
+          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "תוכנית הבוקר של eco99fm!טל ברמן, תם אהרון ואביה פרחיכל יום בין 7:00-9:30"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 בוקר חדש - טל ברמן, תם אהרון, אביה פרחי"
+        },
+        "title": {
+          "label": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי - eco99fm"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%93%D7%A9-%D7%98%D7%9C-%D7%91%D7%A8%D7%9E%D7%9F-%D7%AA%D7%9D-%D7%90%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%94-%D7%A4%D7%A8%D7%97%D7%99/id1687268668?uo=2",
+          "attributes": {
+            "im:id": "1687268668"
+          }
+        },
+        "im:artist": {
+          "label": "eco99fm"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1303",
+            "term": "Comedy",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-comedy/id1303?uo=2",
+            "label": "Comedy"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-24T23:00:00-07:00",
+          "attributes": {
+            "label": "24 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "המאמי הלאומית"
         },
         "im:price": {
@@ -1924,7 +1924,7 @@
       }
     ],
     "updated": {
-      "label": "2026-02-28T22:37:48-07:00"
+      "label": "2026-02-28T23:28:14-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
