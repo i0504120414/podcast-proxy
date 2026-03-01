@@ -57,13 +57,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
       "itunesId": 1519225032
     },
-    "1526992301": {
-      "title": "לשחרר את הדב",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
-      "itunesId": 1526992301
-    },
     "1539292794": {
       "title": "Call Me Back - with Dan Senor",
       "author": "Ark Media, Ilan Benatar",
@@ -119,6 +112,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
+    },
+    "1687268668": {
+      "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
+      "author": "eco99fm",
+      "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
+      "itunesId": 1687268668
     },
     "1746467044": {
       "title": "הסכתוס",
