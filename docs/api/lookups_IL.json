@@ -134,13 +134,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/600x600bb.jpg",
       "itunesId": 1776399040
     },
-    "1784250421": {
-      "title": "המאמי הלאומית",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD3380326767",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/bd/90/e1bd902a-f1d2-9e14-094b-3e558955f256/mza_13652839552111425524.jpg/600x600bb.jpg",
-      "itunesId": 1784250421
-    },
     "1800224338": {
       "title": "למי אכפת",
       "author": "בית הפודיום",
@@ -168,6 +161,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/47693779-6156-4a86-90a2-b3a2007c8adf/2470714a-7e62-4e8a-861d-b3a2007c96b1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/600x600bb.jpg",
       "itunesId": 1859419744
+    },
+    "1872453291": {
+      "title": "לא להמציא",
+      "author": "All•in",
+      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
+      "itunesId": 1872453291
     },
     "1879286856": {
       "title": "חכמים גדולים",
