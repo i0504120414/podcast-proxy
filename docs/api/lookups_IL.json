@@ -78,13 +78,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
       "itunesId": 1595476982
     },
-    "1597632736": {
-      "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
-      "itunesId": 1597632736
-    },
     "1608693224": {
       "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
       "author": "תמיר מנדובסקי",
@@ -168,6 +161,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/47693779-6156-4a86-90a2-b3a2007c8adf/2470714a-7e62-4e8a-861d-b3a2007c96b1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/600x600bb.jpg",
       "itunesId": 1859419744
+    },
+    "1872453291": {
+      "title": "לא להמציא",
+      "author": "All•in",
+      "feedUrl": "https://anchor.fm/s/10f2f230c/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/43/38/e8433864-0dba-59b1-f46a-3b22c86752d7/mza_6142233622282644625.jpg/600x600bb.jpg",
+      "itunesId": 1872453291
     },
     "1879286856": {
       "title": "חכמים גדולים",
