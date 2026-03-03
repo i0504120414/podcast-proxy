@@ -141,6 +141,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/600x600bb.jpg",
       "itunesId": 1746467044
     },
+    "1752871507": {
+      "title": "בָּדוּק",
+      "author": "הפודקאסט של מכון דוידסון לחינוך מדעי",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/b88bd16d-fc76-4263-bdd6-b19100d62b35/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/c8/4d/5dc84d20-4ae2-713e-3e9f-df586d5b1544/mza_17730822462833938898.jpg/600x600bb.jpg",
+      "itunesId": 1752871507
+    },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
       "author": "בית הפודיום",
@@ -168,13 +175,6 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/47693779-6156-4a86-90a2-b3a2007c8adf/2470714a-7e62-4e8a-861d-b3a2007c96b1/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/600x600bb.jpg",
       "itunesId": 1859419744
-    },
-    "1879286856": {
-      "title": "חכמים גדולים",
-      "author": "All•in",
-      "feedUrl": "https://anchor.fm/s/10f5e6ce8/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/80/f4/e680f4a3-ba75-b259-d06e-1f0df134efce/mza_5025540900355127855.jpg/600x600bb.jpg",
-      "itunesId": 1879286856
     }
   }
 }
