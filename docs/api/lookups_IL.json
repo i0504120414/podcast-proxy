@@ -120,13 +120,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
-    "1662095690": {
-      "title": "מפת החום - גיא נתן",
-      "author": "Guy Natan",
-      "feedUrl": "https://anchor.fm/s/f31a6d48/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/8b/a7/e58ba77e-64ab-090d-bad6-27517b2e7cb9/mza_14994598671200647225.jpg/600x600bb.jpg",
-      "itunesId": 1662095690
-    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -147,6 +140,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/53/ae/9b53aec0-9c21-e71b-92ca-d86935a4ca88/mza_10117611385225874024.jpg/600x600bb.jpg",
       "itunesId": 1746467044
+    },
+    "1763517669": {
+      "title": "סויסה + 1",
+      "author": "ישראל היום",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/898cc0e3-d14b-4d5b-90b3-b1cf0127996f/fd19ae53-12a5-44cd-9b69-b1cf012812b5/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/a1/9d/e4a19d1f-7862-602c-ecf1-7ea09925eecb/mza_9811903204870523917.jpg/600x600bb.jpg",
+      "itunesId": 1763517669
     },
     "1776399040": {
       "title": "הקרנף - עם יואב רבינוביץ׳",
