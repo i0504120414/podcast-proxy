@@ -29,12 +29,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/ad/77/ebad773f-c91d-945b-d87c-ecdbf8a72f78/mza_6554747791574965020.jpg/600x600bb.jpg",
       "itunesId": 1151970998
     },
-    "1248230651": {
-      "title": "היסטוריה לילדים History for children",
+    "1201883177": {
+      "title": "שיר אחד One Song",
       "author": "כאן | Kan",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/d7702e41-7c9d-4afe-bf80-a919008d592b/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/c3/19/31c319c8-91df-0b1d-fb5b-97fed25f3cf8/mza_3720855272413054450.jpg/600x600bb.jpg",
-      "itunesId": 1248230651
+      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/80/b3/e2/80b3e2cd-198b-5865-a387-6c5c8a05ba00/mza_1629586208693358523.jpg/600x600bb.jpg",
+      "itunesId": 1201883177
+    },
+    "1207550120": {
+      "title": "המשחק הגדול",
+      "author": "ניצן דוד פוקס",
+      "feedUrl": "https://greatgame.blog/feed/podcast/",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/70/b2/1b70b2c7-82de-6890-4fe2-ce5f88f1e246/mza_2079563888640230500.jpg/600x600bb.jpg",
+      "itunesId": 1207550120
     },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
@@ -43,6 +50,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
+    "1441247448": {
+      "title": "האינטרסנטים",
+      "author": "TheMarker",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
+      "itunesId": 1441247448
+    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -50,12 +64,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/e4/66/7ae4662b-b749-dad3-3e8c-d7d821c32fbf/mza_5412864947793903811.jpg/600x600bb.jpg",
       "itunesId": 1441947841
     },
-    "1539292794": {
-      "title": "Call Me Back - with Dan Senor",
-      "author": "Ark Media, Ilan Benatar",
-      "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
-      "itunesId": 1539292794
+    "1519225032": {
+      "title": "בזמן שעבדתם",
+      "author": "mako מאקו",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/46/f5/4f/46f54fd2-e35a-fe6e-6883-8346ddda870c/mza_15525569366496721909.jpg/600x600bb.jpg",
+      "itunesId": 1519225032
+    },
+    "1526992301": {
+      "title": "לשחרר את הדב",
+      "author": "בית הפודיום",
+      "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
+      "itunesId": 1526992301
     },
     "1553686409": {
       "title": "אחד ביום",
@@ -70,13 +91,6 @@
       "feedUrl": "https://rss.buzzsprout.com/1740993.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a9/b4/54/a9b45486-1aba-8176-77af-ca50d7d8660f/mza_5893513791444786470.jpg/600x600bb.jpg",
       "itunesId": 1560225085
-    },
-    "1595476982": {
-      "title": "הפודקאסט של נדב פרי",
-      "author": "All•in & Nadav Perry",
-      "feedUrl": "https://anchor.fm/s/10ea64dc0/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/b1/ab/f9b1ab9d-a409-228b-d392-e94879f0af62/mza_11013189669932657595.jpeg/600x600bb.jpg",
-      "itunesId": 1595476982
     },
     "1597632736": {
       "title": "עושים פסיכולוגיה עם מעין בוימן משיטה",
@@ -99,13 +113,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/600x600bb.jpg",
       "itunesId": 1623315247
     },
-    "1624478669": {
-      "title": "ספריית פיג'מה קוראת לכם!",
-      "author": "ספריית פיג׳מה",
-      "feedUrl": "https://www.pjisrael.org/feed/podcast/%d7%a1%d7%a4%d7%a8%d7%99%d7%99%d7%aa-%d7%a4%d7%99%d7%92%d7%9e%d7%94-%d7%a7%d7%95%d7%a8%d7%90%d7%aa-%d7%9c%d7%9b%d7%9d/",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/81/ec/c6/81ecc6b2-1724-eed0-5fa3-88b410a4311c/mza_5618081949296278396.png/600x600bb.jpg",
-      "itunesId": 1624478669
-    },
     "1639779705": {
       "title": "תרגעו",
       "author": "בית הפודיום",
@@ -113,19 +120,19 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
+    "1649056749": {
+      "title": "הפודקאסט של ליה",
+      "author": "liya noga",
+      "feedUrl": "https://feeds.simplecast.com/yayF11l2",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/e6/06/0ce6063d-ae40-1409-3517-2145b3ddfd5d/mza_14217001522437306495.jpg/600x600bb.jpg",
+      "itunesId": 1649056749
+    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
       "feedUrl": "https://rss.buzzsprout.com/2186489.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/bf/c7/72bfc758-7a4c-1ad2-c681-223a43731143/mza_14472008001186919138.jpg/600x600bb.jpg",
       "itunesId": 1687268668
-    },
-    "1707589009": {
-      "title": "מיכה סטוקס מגיש: שוק ההון. בורסה. וול סטריט. השקעות. מסחר",
-      "author": "מיכה סטוקס MICHA.STOCKS",
-      "feedUrl": "https://app.kajabi.com/podcasts/2147619382/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
-      "itunesId": 1707589009
     },
     "1716243216": {
       "title": "מרחב מוגן Safe Room",
@@ -138,7 +145,7 @@
       "title": "הסכתוס",
       "author": "הארץ",
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/30/59/6d305988-6de2-7b4b-3457-cef8dacf5ea6/mza_13509020089781235100.jpg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/a1/4a/ffa14ab9-1226-8b8c-6d6e-e66e33862926/mza_12576107728433067658.jpg/600x600bb.jpg",
       "itunesId": 1746467044
     },
     "1776399040": {
@@ -161,13 +168,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1835735529": {
-      "title": "Fela Kuti: Fear No Man",
-      "author": "Higher Ground",
-      "feedUrl": "https://rss.art19.com/fela-kuti-fear-no-man",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5d/d5/dd/5dd5ddf0-f5aa-11a8-a355-d57c9bf05e86/mza_2552844899827783942.jpeg/600x600bb.jpg",
-      "itunesId": 1835735529
     },
     "1859419744": {
       "title": "פאסיב אגרסיב",
