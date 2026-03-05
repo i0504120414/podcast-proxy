@@ -64,6 +64,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
       "itunesId": 1526992301
     },
+    "1539292794": {
+      "title": "Call Me Back - with Dan Senor",
+      "author": "Ark Media, Ilan Benatar",
+      "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+      "itunesId": 1539292794
+    },
     "1553686409": {
       "title": "אחד ביום",
       "author": "N12",
@@ -99,13 +106,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
       "itunesId": 1597632736
     },
-    "1608693224": {
-      "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
-      "author": "תמיר מנדובסקי",
-      "feedUrl": "https://anchor.fm/s/ef1f5500/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/43/24/05/432405e8-475e-9bcd-645a-2eff84ae7767/mza_10621112407198752165.png/600x600bb.jpg",
-      "itunesId": 1608693224
-    },
     "1623315247": {
       "title": "פודקאסט רצח",
       "author": "Maya Gazit Shay Magal",
@@ -119,6 +119,13 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
+    },
+    "1662095690": {
+      "title": "מפת החום - גיא נתן",
+      "author": "Guy Natan",
+      "feedUrl": "https://anchor.fm/s/f31a6d48/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/8b/a7/e58ba77e-64ab-090d-bad6-27517b2e7cb9/mza_14994598671200647225.jpg/600x600bb.jpg",
+      "itunesId": 1662095690
     },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
@@ -134,18 +141,11 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
     },
-    "1716243216": {
-      "title": "מרחב מוגן Safe Room",
-      "author": "כאן | Kan",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/677942ed-7c82-4015-8f11-b0b800d77064/e2180549-419f-4d92-b42f-b0b800d82dca/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/fb/b6/f3fbb67c-c57f-6438-3d2e-7f0f0b878a34/mza_17531233691957794859.jpg/600x600bb.jpg",
-      "itunesId": 1716243216
-    },
     "1746467044": {
       "title": "הסכתוס",
       "author": "הארץ",
       "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/05f48c55-97c4-4049-8449-b14f00850082/e6bdb1ae-5412-42a1-a677-b14f008bbfc9/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/a1/4a/ffa14ab9-1226-8b8c-6d6e-e66e33862926/mza_12576107728433067658.jpg/600x600bb.jpg",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/53/ae/9b53aec0-9c21-e71b-92ca-d86935a4ca88/mza_10117611385225874024.jpg/600x600bb.jpg",
       "itunesId": 1746467044
     },
     "1776399040": {
