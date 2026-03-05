@@ -120,6 +120,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
       "itunesId": 1639779705
     },
+    "1662095690": {
+      "title": "מפת החום - גיא נתן",
+      "author": "Guy Natan",
+      "feedUrl": "https://anchor.fm/s/f31a6d48/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/8b/a7/e58ba77e-64ab-090d-bad6-27517b2e7cb9/mza_14994598671200647225.jpg/600x600bb.jpg",
+      "itunesId": 1662095690
+    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -168,13 +175,6 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
-    },
-    "1859419744": {
-      "title": "פאסיב אגרסיב",
-      "author": "אלונה סער וטליה ברטפלד | Be.po",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/47693779-6156-4a86-90a2-b3a2007c8adf/2470714a-7e62-4e8a-861d-b3a2007c96b1/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/4f/e9/ce4fe928-1df5-b519-4e6b-a591bc1eb471/mza_2675143418591013468.jpg/600x600bb.jpg",
-      "itunesId": 1859419744
     }
   }
 }
