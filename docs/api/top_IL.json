@@ -239,83 +239,6 @@
       },
       {
         "im:name": {
-          "label": "הקרנף - עם יואב רבינוביץ׳"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "פודקאסט אקטואליה יומי בו בכל יום נגבש דעה מתקרנפת וכנראה לא נכונה על משהו שקרה בישראל"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2025 הקרנף - עם יואב רבינוביץ׳"
-        },
-        "title": {
-          "label": "הקרנף - עם יואב רבינוביץ׳ - בית הפודיום"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A7%D7%A8%D7%A0%D7%A3-%D7%A2%D7%9D-%D7%99%D7%95%D7%90%D7%91-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5/id1776399040?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A7%D7%A8%D7%A0%D7%A3-%D7%A2%D7%9D-%D7%99%D7%95%D7%90%D7%91-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5/id1776399040?uo=2",
-          "attributes": {
-            "im:id": "1776399040"
-          }
-        },
-        "im:artist": {
-          "label": "בית הפודיום"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1526",
-            "term": "Daily News",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-daily-news/id1526?uo=2",
-            "label": "Daily News"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-04T18:00:00-07:00",
-          "attributes": {
-            "label": "04 March 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "למי אכפת"
         },
         "im:image": [
@@ -393,30 +316,30 @@
       },
       {
         "im:name": {
-          "label": "הפודיום"
+          "label": "הקרנף - עם יואב רבינוביץ׳"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/39/30/b33930e4-e92c-32b8-6e3a-e005b4127594/mza_2949262498004353448.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
+          "label": "פודקאסט אקטואליה יומי בו בכל יום נגבש דעה מתקרנפת וכנראה לא נכונה על משהו שקרה בישראל"
         },
         "im:price": {
           "label": "Get",
@@ -432,22 +355,22 @@
           }
         },
         "rights": {
-          "label": "© Copyright 2020 All rights reserved."
+          "label": "© 2025 הקרנף - עם יואב רבינוביץ׳"
         },
         "title": {
-          "label": "הפודיום - בית הפודיום"
+          "label": "הקרנף - עם יואב רבינוביץ׳ - בית הפודיום"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A7%D7%A8%D7%A0%D7%A3-%D7%A2%D7%9D-%D7%99%D7%95%D7%90%D7%91-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5/id1776399040?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A7%D7%A8%D7%A0%D7%A3-%D7%A2%D7%9D-%D7%99%D7%95%D7%90%D7%91-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5/id1776399040?uo=2",
           "attributes": {
-            "im:id": "1076440606"
+            "im:id": "1776399040"
           }
         },
         "im:artist": {
@@ -455,16 +378,16 @@
         },
         "category": {
           "attributes": {
-            "im:id": "1546",
-            "term": "Soccer",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
-            "label": "Football"
+            "im:id": "1526",
+            "term": "Daily News",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-daily-news/id1526?uo=2",
+            "label": "Daily News"
           }
         },
         "im:releaseDate": {
-          "label": "2026-03-06T00:00:00-07:00",
+          "label": "2026-03-04T18:00:00-07:00",
           "attributes": {
-            "label": "06 March 2026"
+            "label": "04 March 2026"
           }
         }
       },
@@ -547,6 +470,83 @@
       },
       {
         "im:name": {
+          "label": "הפודיום"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "הפודקאסט של אורן יוסיפוביץ, הרבה ספורט והרבה דברים אחרים שמעניינים כמעט כמו ספורט"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2020 All rights reserved."
+        },
+        "title": {
+          "label": "הפודיום - בית הפודיום"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%94%D7%A4%D7%95%D7%93%D7%99%D7%95%D7%9D/id1076440606?uo=2",
+          "attributes": {
+            "im:id": "1076440606"
+          }
+        },
+        "im:artist": {
+          "label": "בית הפודיום"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1546",
+            "term": "Soccer",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-sport-football/id1546?uo=2",
+            "label": "Football"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-06T00:00:00-07:00",
+          "attributes": {
+            "label": "06 March 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "גיקונומי"
         },
         "im:image": [
@@ -619,6 +619,83 @@
           "label": "2026-03-05T11:40:00-07:00",
           "attributes": {
             "label": "05 March 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "חיות כיס Hayot Kiss"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "סיפורים על כלכלה במילים של בני אדם. מגישים: שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי. עורכת: ליהיא צדוק. מפיק: עדי אפרת. עורך סאונד: טל וניג."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 כאן"
+        },
+        "title": {
+          "label": "חיות כיס Hayot Kiss - כאן | Kan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2",
+          "attributes": {
+            "im:id": "1198989209"
+          }
+        },
+        "im:artist": {
+          "label": "כאן | Kan"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-24T19:00:00-07:00",
+          "attributes": {
+            "label": "24 February 2026"
           }
         }
       },
@@ -778,83 +855,6 @@
       },
       {
         "im:name": {
-          "label": "חיות כיס Hayot Kiss"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "סיפורים על כלכלה במילים של בני אדם. מגישים: שאול אמסטרדמסקי, צליל אברהם ואלון אמיצי. עורכת: ליהיא צדוק. מפיק: עדי אפרת. עורך סאונד: טל וניג."
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© 2026 כאן"
-        },
-        "title": {
-          "label": "חיות כיס Hayot Kiss - כאן | Kan"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%99%D7%A1-hayot-kiss/id1198989209?uo=2",
-          "attributes": {
-            "im:id": "1198989209"
-          }
-        },
-        "im:artist": {
-          "label": "כאן | Kan"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-02-24T19:00:00-07:00",
-          "attributes": {
-            "label": "24 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
           "label": "פודקאסט רצח"
         },
         "im:image": [
@@ -1004,80 +1004,6 @@
           "label": "2026-03-05T19:30:00-07:00",
           "attributes": {
             "label": "05 March 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "Call Me Back - with Dan Senor"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "Presenting the challenges and dilemmas facing Israelis to a global audience."
-        },
-        "im:artist": {
-          "label": "Ark Media, Ilan Benatar"
-        },
-        "title": {
-          "label": "Call Me Back - with Dan Senor - Ark Media, Ilan Benatar"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/call-me-back-with-dan-senor/id1539292794?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/call-me-back-with-dan-senor/id1539292794?uo=2",
-          "attributes": {
-            "im:id": "1539292794"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1530",
-            "term": "News Commentary",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-news-commentary/id1530?uo=2",
-            "label": "News Commentary"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-04T21:00:00-07:00",
-          "attributes": {
-            "label": "04 March 2026"
           }
         }
       },
@@ -1237,6 +1163,157 @@
       },
       {
         "im:name": {
+          "label": "מנועי הכסף"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "\"מנועי הכסף\" הוא פודקאסט כלכלי מבית כלכליסט, בהנחיית שי סלינס, סגן עורך אתר כלכליסט, ואורי גרינפלד, כלכלן ראשי באגם לידרים. בכל פרק בפודקאסט דנים בסוגיות המרכזיות שמניעות את הכלכלה הישראלית והעולמית - מריבית, אינפלציה ועד לטכנולוגיה, מט״ח, בורסות ואנרגיה. הפודקאסט, שנוסד ב-2018, צבר קהל של עשרות אלפי מאזינים לכל פרק במקביל לקהילה גדולה בסושיאל.\"מנועי הכסף\" משודר ומצולם מדי שבוע בכל אפליקציות הפודקאסטים, בספוטיפיי ויוטיוב וטלגרם, ונמצא בצמרת הפודקאסטים הכלכליים בישראל"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2026 ADIO"
+        },
+        "title": {
+          "label": "מנועי הכסף - כלכליסט"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A0%D7%95%D7%A2%D7%99-%D7%94%D7%9B%D7%A1%D7%A3/id1340384819?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A0%D7%95%D7%A2%D7%99-%D7%94%D7%9B%D7%A1%D7%A3/id1340384819?uo=2",
+          "attributes": {
+            "im:id": "1340384819"
+          }
+        },
+        "im:artist": {
+          "label": "כלכליסט"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1321",
+            "term": "Business",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
+            "label": "Business"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-02-26T10:00:00-07:00",
+          "attributes": {
+            "label": "26 February 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Call Me Back - with Dan Senor"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "ILS"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Presenting the challenges and dilemmas facing Israelis to a global audience."
+        },
+        "im:artist": {
+          "label": "Ark Media, Ilan Benatar"
+        },
+        "title": {
+          "label": "Call Me Back - with Dan Senor - Ark Media, Ilan Benatar"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/il/podcast/call-me-back-with-dan-senor/id1539292794?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/il/podcast/call-me-back-with-dan-senor/id1539292794?uo=2",
+          "attributes": {
+            "im:id": "1539292794"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1530",
+            "term": "News Commentary",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-news-news-commentary/id1530?uo=2",
+            "label": "News Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-03-04T21:00:00-07:00",
+          "attributes": {
+            "label": "04 March 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
           "label": "התשובה עם דורון פישלר Hatshuva With Doron Fishler"
         },
         "im:image": [
@@ -1309,83 +1386,6 @@
           "label": "2026-02-24T06:11:00-07:00",
           "attributes": {
             "label": "24 February 2026"
-          }
-        }
-      },
-      {
-        "im:name": {
-          "label": "עושים פסיכולוגיה עם מעין בוימן משיטה"
-        },
-        "im:image": [
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/55x55bb.png",
-            "attributes": {
-              "height": "55"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/60x60bb.png",
-            "attributes": {
-              "height": "60"
-            }
-          },
-          {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/170x170bb.png",
-            "attributes": {
-              "height": "170"
-            }
-          }
-        ],
-        "summary": {
-          "label": "ד\"ר מעיין בוימן משיטה לוקחת אותך למסע מרתק לנבכי נפש האדם והמוח האנושי: חרדה וטראומה, זוגיות ומשמעות, עבודה והגשמה, הורות ואל-הורות, התמכרות לטכנולוגיה, מוזיקה, גוף ונפש. \n\nבכל פרק היא פורשת מחקר פסיכולוגי, סיפורים אישיים וכלים פרקטיים בגובה העיניים כדי לעזור להבין למה אנחנו מרגישים וחושבים כמו שאנחנו, ואיך אפשר לחיות קצת יותר טוב עם עצמנו ועם אחרים.\n\n\nלפודקאסטים נוספים  בקרו ב״רשת עושים היסטוריה״ 🚀"
-        },
-        "im:price": {
-          "label": "Get",
-          "attributes": {
-            "amount": "0",
-            "currency": "ILS"
-          }
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Podcast",
-            "label": "Podcast"
-          }
-        },
-        "rights": {
-          "label": "© Copyright PI Media"
-        },
-        "title": {
-          "label": "עושים פסיכולוגיה עם מעין בוימן משיטה - רשת עושים היסטוריה"
-        },
-        "link": {
-          "attributes": {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A2%D7%9D-%D7%9E%D7%A2%D7%99%D7%9F-%D7%91%D7%95%D7%99%D7%9E%D7%9F-%D7%9E%D7%A9%D7%99%D7%98%D7%94/id1597632736?uo=2"
-          }
-        },
-        "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A2%D7%9D-%D7%9E%D7%A2%D7%99%D7%9F-%D7%91%D7%95%D7%99%D7%9E%D7%9F-%D7%9E%D7%A9%D7%99%D7%98%D7%94/id1597632736?uo=2",
-          "attributes": {
-            "im:id": "1597632736"
-          }
-        },
-        "im:artist": {
-          "label": "רשת עושים היסטוריה"
-        },
-        "category": {
-          "attributes": {
-            "im:id": "1544",
-            "term": "Relationships",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture-relationships/id1544?uo=2",
-            "label": "Relationships"
-          }
-        },
-        "im:releaseDate": {
-          "label": "2026-03-04T03:13:00-07:00",
-          "attributes": {
-            "label": "04 March 2026"
           }
         }
       },
@@ -1465,30 +1465,30 @@
       },
       {
         "im:name": {
-          "label": "מנועי הכסף"
+          "label": "עושים פסיכולוגיה עם מעין בוימן משיטה"
         },
         "im:image": [
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/55x55bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/55x55bb.png",
             "attributes": {
               "height": "55"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/60x60bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/60x60bb.png",
             "attributes": {
               "height": "60"
             }
           },
           {
-            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/170x170bb.png",
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/170x170bb.png",
             "attributes": {
               "height": "170"
             }
           }
         ],
         "summary": {
-          "label": "\"מנועי הכסף\" הוא פודקאסט כלכלי מבית כלכליסט, בהנחיית שי סלינס, סגן עורך אתר כלכליסט, ואורי גרינפלד, כלכלן ראשי באגם לידרים. בכל פרק בפודקאסט דנים בסוגיות המרכזיות שמניעות את הכלכלה הישראלית והעולמית - מריבית, אינפלציה ועד לטכנולוגיה, מט״ח, בורסות ואנרגיה. הפודקאסט, שנוסד ב-2018, צבר קהל של עשרות אלפי מאזינים לכל פרק במקביל לקהילה גדולה בסושיאל.\"מנועי הכסף\" משודר ומצולם מדי שבוע בכל אפליקציות הפודקאסטים, בספוטיפיי ויוטיוב וטלגרם, ונמצא בצמרת הפודקאסטים הכלכליים בישראל"
+          "label": "ד\"ר מעיין בוימן משיטה לוקחת אותך למסע מרתק לנבכי נפש האדם והמוח האנושי: חרדה וטראומה, זוגיות ומשמעות, עבודה והגשמה, הורות ואל-הורות, התמכרות לטכנולוגיה, מוזיקה, גוף ונפש. \n\nבכל פרק היא פורשת מחקר פסיכולוגי, סיפורים אישיים וכלים פרקטיים בגובה העיניים כדי לעזור להבין למה אנחנו מרגישים וחושבים כמו שאנחנו, ואיך אפשר לחיות קצת יותר טוב עם עצמנו ועם אחרים.\n\n\nלפודקאסטים נוספים  בקרו ב״רשת עושים היסטוריה״ 🚀"
         },
         "im:price": {
           "label": "Get",
@@ -1504,39 +1504,39 @@
           }
         },
         "rights": {
-          "label": "© 2026 ADIO"
+          "label": "© Copyright PI Media"
         },
         "title": {
-          "label": "מנועי הכסף - כלכליסט"
+          "label": "עושים פסיכולוגיה עם מעין בוימן משיטה - רשת עושים היסטוריה"
         },
         "link": {
           "attributes": {
             "rel": "alternate",
             "type": "text/html",
-            "href": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A0%D7%95%D7%A2%D7%99-%D7%94%D7%9B%D7%A1%D7%A3/id1340384819?uo=2"
+            "href": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A2%D7%9D-%D7%9E%D7%A2%D7%99%D7%9F-%D7%91%D7%95%D7%99%D7%9E%D7%9F-%D7%9E%D7%A9%D7%99%D7%98%D7%94/id1597632736?uo=2"
           }
         },
         "id": {
-          "label": "https://podcasts.apple.com/il/podcast/%D7%9E%D7%A0%D7%95%D7%A2%D7%99-%D7%94%D7%9B%D7%A1%D7%A3/id1340384819?uo=2",
+          "label": "https://podcasts.apple.com/il/podcast/%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%A2%D7%9D-%D7%9E%D7%A2%D7%99%D7%9F-%D7%91%D7%95%D7%99%D7%9E%D7%9F-%D7%9E%D7%A9%D7%99%D7%98%D7%94/id1597632736?uo=2",
           "attributes": {
-            "im:id": "1340384819"
+            "im:id": "1597632736"
           }
         },
         "im:artist": {
-          "label": "כלכליסט"
+          "label": "רשת עושים היסטוריה"
         },
         "category": {
           "attributes": {
-            "im:id": "1321",
-            "term": "Business",
-            "scheme": "https://podcasts.apple.com/il/genre/podcasts-business/id1321?uo=2",
-            "label": "Business"
+            "im:id": "1544",
+            "term": "Relationships",
+            "scheme": "https://podcasts.apple.com/il/genre/podcasts-society-culture-relationships/id1544?uo=2",
+            "label": "Relationships"
           }
         },
         "im:releaseDate": {
-          "label": "2026-02-26T10:00:00-07:00",
+          "label": "2026-03-04T03:13:00-07:00",
           "attributes": {
-            "label": "26 February 2026"
+            "label": "04 March 2026"
           }
         }
       },
@@ -1924,7 +1924,7 @@
       }
     ],
     "updated": {
-      "label": "2026-03-06T09:29:20-07:00"
+      "label": "2026-03-06T10:35:25-07:00"
     },
     "rights": {
       "label": "Copyright 2008 Apple Inc."
