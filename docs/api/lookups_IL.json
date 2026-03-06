@@ -22,13 +22,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d4/74/00d47403-3045-95f0-9c3d-d56e88334f6f/mza_11973574227820138950.png/600x600bb.jpg",
       "itunesId": 1076440606
     },
-    "1151970998": {
-      "title": "עושים חשבון Osim Heshbon",
-      "author": "רשת עושים היסטוריה",
-      "feedUrl": "https://www.spreaker.com/show/4221239/episodes/feed",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/ad/77/ebad773f-c91d-945b-d87c-ecdbf8a72f78/mza_6554747791574965020.jpg/600x600bb.jpg",
-      "itunesId": 1151970998
-    },
     "1201883177": {
       "title": "שיר אחד One Song",
       "author": "כאן | Kan",
@@ -70,6 +63,13 @@
       "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
       "itunesId": 1539292794
+    },
+    "1550747153": {
+      "title": "הכותרת",
+      "author": "שרון כידון | Be.po",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/de0f04c1-f777-4661-b029-af6d01426cad/026b5414-4254-4038-9761-af7a00e8707e/30c4e768-7d14-4c98-bb13-af7a00e87095/podcast.rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/98/33/31983315-f2c6-7da9-b51f-62c5a3581a7b/mza_2711165237298735449.jpg/600x600bb.jpg",
+      "itunesId": 1550747153
     },
     "1553686409": {
       "title": "אחד ביום",
