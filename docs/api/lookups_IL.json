@@ -43,13 +43,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
       "itunesId": 1340384819
     },
-    "1441247448": {
-      "title": "האינטרסנטים",
-      "author": "TheMarker",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/161f6359-650a-4e72-9090-ac07017cc8e0/f4c15dc2-8e2b-4391-b534-ac07017cc8f8/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/b7/04/07b70453-7b3b-8541-777e-4a4c57af23c2/mza_4205213924129249441.jpg/600x600bb.jpg",
-      "itunesId": 1441247448
-    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -112,6 +105,13 @@
       "feedUrl": "https://www.spreaker.com/show/5277195/episodes/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/01/ca/6401ca6c-0589-a036-3b3d-b3ca302a029b/mza_4649784516877948803.jpg/600x600bb.jpg",
       "itunesId": 1597632736
+    },
+    "1608693224": {
+      "title": "השקעות לעצלנים - פודקאסט על כסף, השקעות והחיים עצמם",
+      "author": "תמיר מנדובסקי",
+      "feedUrl": "https://anchor.fm/s/ef1f5500/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/43/24/05/432405e8-475e-9bcd-645a-2eff84ae7767/mza_10621112407198752165.png/600x600bb.jpg",
+      "itunesId": 1608693224
     },
     "1623315247": {
       "title": "פודקאסט רצח",
