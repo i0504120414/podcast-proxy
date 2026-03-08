@@ -141,13 +141,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/53/ae/9b53aec0-9c21-e71b-92ca-d86935a4ca88/mza_10117611385225874024.jpg/600x600bb.jpg",
       "itunesId": 1746467044
     },
-    "1759848794": {
-      "title": "קיקטוק",
-      "author": "All•in",
-      "feedUrl": "https://anchor.fm/s/10ea649d8/podcast/rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/b6/8e/42b68e68-40cd-d003-47bd-05e4525fe1d4/mza_14109049358353984350.png/600x600bb.jpg",
-      "itunesId": 1759848794
-    },
     "1763517669": {
       "title": "סויסה + 1",
       "author": "ישראל היום",
@@ -175,6 +168,13 @@
       "feedUrl": "https://anchor.fm/s/1047a9180/podcast/rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/72/e5/8572e5d5-436a-8828-e722-d67db46b8f81/mza_4977448199397169417.jpg/600x600bb.jpg",
       "itunesId": 1823006955
+    },
+    "1879286856": {
+      "title": "חכמים גדולים",
+      "author": "All•in",
+      "feedUrl": "https://anchor.fm/s/10f5e6ce8/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/80/f4/e680f4a3-ba75-b259-d06e-1f0df134efce/mza_5025540900355127855.jpg/600x600bb.jpg",
+      "itunesId": 1879286856
     }
   }
 }
