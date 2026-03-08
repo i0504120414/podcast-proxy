@@ -43,13 +43,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/d8/d9/a4d8d907-2cdd-8598-dc49-3dca5eb42c48/mza_9757300629596409593.jpg/600x600bb.jpg",
       "itunesId": 1305812824
     },
-    "1340384819": {
-      "title": "מנועי הכסף",
-      "author": "כלכליסט",
-      "feedUrl": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/8a5aa674-a749-43c7-86c3-b31b00e06274/podcast.rss",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/74/11/347411b9-7a25-3c3c-f367-057a4e8bc1c7/mza_855551964337690089.jpg/600x600bb.jpg",
-      "itunesId": 1340384819
-    },
     "1441947841": {
       "title": "התשובה עם דורון פישלר Hatshuva With Doron Fishler",
       "author": "רשת עושים היסטוריה",
@@ -77,6 +70,13 @@
       "feedUrl": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/4eb9c56a-f5f6-4399-b8d9-ac58009915d7/7c9bb576-f6af-4528-9b92-ac5800aefe7d/podcast.rss",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/10/24/e4102462-eac1-c662-73e0-1f8e252d7a95/mza_1482990506907447948.jpg/600x600bb.jpg",
       "itunesId": 1536322065
+    },
+    "1539292794": {
+      "title": "Call Me Back - with Dan Senor",
+      "author": "Ark Media, Ilan Benatar",
+      "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+      "itunesId": 1539292794
     },
     "1553686409": {
       "title": "אחד ביום",
