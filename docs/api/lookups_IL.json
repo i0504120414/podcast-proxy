@@ -29,6 +29,13 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/6a/19/2c6a19f4-0bbc-4dfb-f9d7-be6ad9954cf9/mza_13219943273970302781.jpg/600x600bb.jpg",
       "itunesId": 1198989209
     },
+    "1224046559": {
+      "title": "טייכר וזרחוביץ׳",
+      "author": "Radio Tel Aviv",
+      "feedUrl": "https://rss.102fm.co.il/rss-feed/get-feed?category=TANDZ",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/17/29/88/17298852-2ba4-404e-2061-ae2eeeccaef5/mza_14543063499740247024.png/600x600bb.jpg",
+      "itunesId": 1224046559
+    },
     "1305812824": {
       "title": "השבוע - פודקאסט הארץ",
       "author": "הארץ",
@@ -63,13 +70,6 @@
       "feedUrl": "https://feeds.megaphone.fm/POLTD4092016598",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/b9/16/93b9164e-f711-57a7-a7dc-719022219bc3/mza_17904054065564333242.jpg/600x600bb.jpg",
       "itunesId": 1526992301
-    },
-    "1539292794": {
-      "title": "Call Me Back - with Dan Senor",
-      "author": "Ark Media, Ilan Benatar",
-      "feedUrl": "https://feeds.simplecast.com/5gzMlOG1",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
-      "itunesId": 1539292794
     },
     "1550747153": {
       "title": "הכותרת",
