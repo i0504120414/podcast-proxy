@@ -1,8 +1,7 @@
 ﻿name: Podcast Proxy
 
 on:
-  schedule:
-    - cron: '0 * * * *'
+
   
   workflow_dispatch:
     inputs:
