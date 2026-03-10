@@ -113,13 +113,6 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/6c/fa/35/6cfa357f-ac80-f91c-cda7-812bfc916ede/mza_15270476402207431339.jpg/600x600bb.jpg",
       "itunesId": 1623315247
     },
-    "1639779705": {
-      "title": "תרגעו",
-      "author": "בית הפודיום",
-      "feedUrl": "https://feeds.megaphone.fm/POLTD1402661471",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/93/19/4b9319d3-0c57-c17a-00b3-a1237a3b7e4f/mza_6610383153119378893.jpg/600x600bb.jpg",
-      "itunesId": 1639779705
-    },
     "1687268668": {
       "title": "בוקר חדש - טל ברמן, תם אהרון, אביה פרחי",
       "author": "eco99fm",
@@ -133,6 +126,13 @@
       "feedUrl": "https://app.kajabi.com/podcasts/2147619382/feed",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/d6/73/82d6730d-8f9f-8ccf-f8d6-f98fe3fa5721/mza_18067098658963105321.jpg/600x600bb.jpg",
       "itunesId": 1707589009
+    },
+    "1742404005": {
+      "title": "סערה מושלמת",
+      "author": "יובל דרור",
+      "feedUrl": "https://anchor.fm/s/f4717b28/podcast/rss",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/67/56/38/67563845-321c-24bf-951e-03704b30fda4/mza_7715498514861591793.jpg/600x600bb.jpg",
+      "itunesId": 1742404005
     },
     "1746467044": {
       "title": "הסכתוס",
